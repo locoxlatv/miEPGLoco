@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 08/02/2026 11:45" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 09/02/2026 12:03" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1 Super UHD 4k">
     <display-name>La 1 Super UHD 4k</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png" />
@@ -57,14 +57,14 @@
 	</programme>
 	<programme start="20260208130500 +0100" stop="20260208150000 +0100" channel="La 1 Super UHD 4k">
     <title>D Corazón T3 E12</title>
-    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *6.0/10
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *6.6/10
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
 · Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
 	</programme>
 	<programme start="20260208150000 +0100" stop="20260208154500 +0100" channel="La 1 Super UHD 4k">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | TP | *4.0/10
+    <desc>Información,Informativo | 2021 | *4.0/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -124,7 +124,7 @@
 	</programme>
 	<programme start="20260208204500 +0100" stop="20260208205500 +0100" channel="La 1 Super UHD 4k">
     <title>8F Aragón decide T2026 · Primeros datos</title>
-    <desc>Información,Informativo | 2026 | *6.0/10
+    <desc>Información,Informativo | 2026 | *5.8/10
 · Los Servicios Informativos de RTVE ofrecen la última hora de las elecciones en Aragón, con conexiones en directo desde los puntos de interés, con la votación de los candidatos, los primeros datos y la revelación de los resultados.
 · País: España</desc>
 	</programme>
@@ -145,7 +145,7 @@
 	</programme>
 	<programme start="20260208212000 +0100" stop="20260208222500 +0100" channel="La 1 Super UHD 4k">
     <title>8F Aragón decide T2026 · Resultados</title>
-    <desc>Información,Informativo | 2026 | *6.4/10
+    <desc>Información,Informativo | 2026 | *5.8/10
 · Los Servicios Informativos de RTVE ofrecen la última hora de las elecciones en Aragón, con conexiones en directo desde los puntos de interés, con la votación de los candidatos, los primeros datos y la revelación de los resultados.
 · País: España</desc>
 	</programme>
@@ -180,7 +180,7 @@
 	</programme>
 	<programme start="20260209060000 +0100" stop="20260209075000 +0100" channel="La 1 Super UHD 4k">
     <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | *6.2/10
+    <desc>Información,Informativo | 2023 | TP | *6.2/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
@@ -202,7 +202,7 @@
 	</programme>
 	<programme start="20260209145500 +0100" stop="20260209153500 +0100" channel="La 1 Super UHD 4k">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -229,14 +229,14 @@
 	</programme>
 	<programme start="20260209155500 +0100" stop="20260209173500 +0100" channel="La 1 Super UHD 4k">
     <title>Directo al grano T2 E26</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
 · Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
 · Presenta: Marta Flich, Gonzalo Miró.</desc>
 	</programme>
 	<programme start="20260209173500 +0100" stop="20260209183500 +0100" channel="La 1 Super UHD 4k">
     <title>Valle Salvaje T3 E110</title>
-    <desc>Series,Telenovela | 2026 | +12
+    <desc>Series,Telenovela | 2026 | +12 | *6.0/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
@@ -244,7 +244,7 @@
 	</programme>
 	<programme start="20260209183500 +0100" stop="20260209193500 +0100" channel="La 1 Super UHD 4k">
     <title>La Promesa T1 E771</title>
-    <desc>Series,Drama | 2026 | +12
+    <desc>Series,Drama | 2026 | +12 | *6.0/10
 · En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
 · Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
@@ -253,7 +253,7 @@
 	</programme>
 	<programme start="20260209193500 +0100" stop="20260209203000 +0100" channel="La 1 Super UHD 4k">
     <title>Malas lenguas T2 E101</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.4/10
 · Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
@@ -267,7 +267,7 @@
 	</programme>
 	<programme start="20260209205500 +0100" stop="20260209214000 +0100" channel="La 1 Super UHD 4k">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
+    <desc>Información,Informativo | 2021 | TP | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -282,7 +282,7 @@
 	</programme>
 	<programme start="20260209214500 +0100" stop="20260209230000 +0100" channel="La 1 Super UHD 4k">
     <title>La revuelta T2 E75</title>
-    <desc>Entretenimiento,Entrevista | 2026 | +12
+    <desc>Entretenimiento,Entrevista | 2026 | +12 | *6.0/10
 · Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
 · País: España
 · Presenta: David Broncano.
@@ -1061,7 +1061,7 @@
 	</programme>
 	<programme start="20260208103000 +0100" stop="20260208113000 +0100" channel="La 2 Super Full HD 8k">
     <title>El día del señor T2026 · Parroquia de San Camilo de Lelis, Madrid</title>
-    <desc>Cultural/Educativo,Religión | 2026 | TP | *6.0/10
+    <desc>Cultural/Educativo,Religión | 2026 | TP | *6.6/10
 · Programa religioso que retransmite la celebración de la eucaristía desde diferentes parroquias de toda España y un reportaje relacionado con la localidad, su patrimonio cultural, artístico, o de la festividad que se celebra en la liturgia.
 · País: España
 · Dirección: Juan Carlos Ramos.
@@ -1077,7 +1077,7 @@
 	</programme>
 	<programme start="20260208120000 +0100" stop="20260208123000 +0100" channel="La 2 Super Full HD 8k">
     <title>Un país en bicicleta. Diario de una ciclista · Camino Real de Guadalupe</title>
-    <desc>Documentales,Viajes | 2026 | TP | *6.0/10
+    <desc>Documentales,Viajes | 2026 | TP | *6.2/10
 · Ainara Hernando inicia una ruta en bicicleta desde Madrid a Guadalupe siguiendo el 'Camino Real'. Comienza en la Parroquia de San Jerónimo el Real, recorre lugares emblemáticos de Madrid y se dirige a Móstoles.
 · País: España
 · Presenta: Ainara Hernando.</desc>
@@ -1133,18 +1133,11 @@
 · País: España
 · Presenta: Rodrigo Vázquez, Núria Ramírez.</desc>
 	</programme>
-	<programme start="20260208161500 +0100" stop="20260208170000 +0100" channel="La 2 Super Full HD 8k">
-    <title>Italia. El último territorio salvaje · El bosque de los osos pardos</title>
-    <desc>Documentales,Naturaleza | 2023 | TP
-· Recorrido por los paisajes únicos de Italia para capturar cómo los lobos, osos, halcones y águilas en peligro de extinción cazan y crían a sus crías.
-· Dirección: Francesco Petretti.</desc>
-	</programme>
-	<programme start="20260208170000 +0100" stop="20260208175000 +0100" channel="La 2 Super Full HD 8k">
-    <title>Las historias del bosque mediterráneo · El acorazado del bosque</title>
-    <desc>Documentales,Naturaleza | 2017 | TP | *6.2/10
-· La cuenca del Mediterráneo es una de las regiones más ricas del planeta.
-· País: España
-· Dirección: Jose Antonio Vallejo.</desc>
+	<programme start="20260208161500 +0100" stop="20260208175000 +0100" channel="La 2 Super Full HD 8k">
+    <title>DIRECTO Jornada 23: Sevilla - Girona T25/26 · LALIGA EA SPORTS</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+· Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+· País: España</desc>
 	</programme>
 	<programme start="20260208175000 +0100" stop="20260208182000 +0100" channel="La 2 Super Full HD 8k">
     <title>Fauna letal: Lo nunca visto</title>
@@ -1191,7 +1184,7 @@
 	</programme>
 	<programme start="20260208221000 +0100" stop="20260208230000 +0100" channel="La 2 Super Full HD 8k">
     <title>Al cielo con ella T2 · Paula Vázquez y Amparo Llanos</title>
-    <desc>Entretenimiento,Late Night | 2026 | +16
+    <desc>Entretenimiento,Late Night | 2026 | +16 | *2.0/10
 · El programa recibe en su plató a la presentadora Paula Vázquez y a la guitarrista, cantante y compositora, Amparo Llanos. Henar Álvarez dedica su monólogo a las rupturas.
 · País: España
 · Dirección: Henar Álvarez, Javier Durán, Alberto Fernández.</desc>
@@ -1233,7 +1226,7 @@
 	</programme>
 	<programme start="20260209041000 +0100" stop="20260209050000 +0100" channel="La 2 Super Full HD 8k">
     <title>Pablo Picasso y Françoise Gilot, ''la mujer que dice no''</title>
-    <desc>Documentales,Arte y cultura | 2021 | TP | *6.0/10
+    <desc>Documentales,Arte y cultura | 2021 | TP | *6.4/10
 · Françoise Gilot fue la única que se atrevió a dejar al genial artista.
 · País: Francia
 · Dirección: Annie Maïllis, Sylvie Blum.</desc>
@@ -1282,7 +1275,7 @@
 	</programme>
 	<programme start="20260209072000 +0100" stop="20260209081000 +0100" channel="La 2 Super Full HD 8k">
     <title>Hundidos: RMS Solway</title>
-    <desc>Documentales,Ciencia tecnología | 2018 | TP | *6.4/10
+    <desc>Documentales,Ciencia tecnología | 2018 | TP | *6.2/10
 · El equipo de buzos, con Carlos a la cabeza, sale en busca del Solway, un vapor inglés construido en 1841, hundido a 20 metros de profundidad en los Bajos de Baldaio, en A Coruña.
 · País: España
 · Productora: Karlos Simón.</desc>
@@ -1385,14 +1378,14 @@
 	</programme>
 	<programme start="20260209174500 +0100" stop="20260209193500 +0100" channel="La 2 Super Full HD 8k">
     <title>Malas lenguas T2 E101</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.4/10
 · Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
 	</programme>
 	<programme start="20260209193500 +0100" stop="20260209202500 +0100" channel="La 2 Super Full HD 8k">
     <title>En busca de secretos: París</title>
-    <desc>Documentales,Historia | 2023 | +7 | *6.6/10
+    <desc>Documentales,Historia | 2023 | +7 | *6.4/10
 · Cada gran metrópolis tiene sus secretos, algunos escondidos en los anales de la historia y otros ocultos a plena vista.
 · País: Reino Unido</desc>
 	</programme>
@@ -2617,69 +2610,6 @@
 · País: Australia
 · Dirección: Peter Rees.</desc>
 	</programme>
-  <programme start="20260207001500 -0600" stop="20260207010000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
-  <programme start="20260207010000 -0600" stop="20260207020000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20260207020000 -0600" stop="20260207030000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260207030000 -0600" stop="20260207040000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
-  <programme start="20260207040000 -0600" stop="20260207050000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260207050000 -0600" stop="20260207060000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260207060000 -0600" stop="20260207070000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260207070000 -0600" stop="20260207080000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20260207080000 -0600" stop="20260207090000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos Sábado</title>
-  </programme>
-  <programme start="20260207090000 -0600" stop="20260207110000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría - Fin de semana</title>
-  </programme>
-  <programme start="20260207110000 -0600" stop="20260207130000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría - Fin de semana</title>
-  </programme>
-  <programme start="20260207130000 -0600" stop="20260207150000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Sábado al extremo</title>
-  </programme>
-  <programme start="20260207150000 -0600" stop="20260207160000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">FIA Carolina Rocha</title>
-  </programme>
-  <programme start="20260207160000 -0600" stop="20260207170000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Nada Personal</title>
-    <desc lang="es">Nada Personal es una serie que trae Discovery Channel para Latinoamérica donde asesinos a sueldo son contratados para matar sin piedad.La serie tipo documental Nada Personal es presentada por Steve Schirippa, conocido por la serie de mafiosos “Los Soprano”. En este programa se verán historias verídicas de asesinatos hechos por contrato.En cada capítulo de la serie, se narra la historia de un trabajo profesional que trata de cómo se contacta, las instrucciones dadas al asesino para llevar a cabo las peticiones del cliente.</desc>
-    <date>2011</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/nada_personal.jpg" />
-  </programme>
-  <programme start="20260207170000 -0600" stop="20260207180000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Un día cualquiera</title>
-  </programme>
-  <programme start="20260207180000 -0600" stop="20260207190000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260207190000 -0600" stop="20260207200000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260207200000 -0600" stop="20260207210000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260207210000 -0600" stop="20260208000000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Rocío al límite</title>
-  </programme>
-  <programme start="20260208000000 -0600" stop="20260208010000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
   <programme start="20260208010000 -0600" stop="20260208020000 -0600" channel="MX | Canal TV Azteca">
     <title lang="es">Rutas de la Vida</title>
   </programme>
@@ -2728,69 +2658,6 @@
   <programme start="20260208170000 -0600" stop="20260208180000 -0600" channel="MX | Canal TV Azteca">
     <title lang="es">Al extremo</title>
   </programme>
-  <programme start="20260207001500 -0600" stop="20260207010000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
-  <programme start="20260207010000 -0600" stop="20260207020000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20260207020000 -0600" stop="20260207030000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260207030000 -0600" stop="20260207040000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
-  <programme start="20260207040000 -0600" stop="20260207050000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260207050000 -0600" stop="20260207060000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260207060000 -0600" stop="20260207070000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260207070000 -0600" stop="20260207080000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20260207080000 -0600" stop="20260207090000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos Sábado</title>
-  </programme>
-  <programme start="20260207090000 -0600" stop="20260207110000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría - Fin de semana</title>
-  </programme>
-  <programme start="20260207110000 -0600" stop="20260207130000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría - Fin de semana</title>
-  </programme>
-  <programme start="20260207130000 -0600" stop="20260207150000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Sábado al extremo</title>
-  </programme>
-  <programme start="20260207150000 -0600" stop="20260207160000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">FIA Carolina Rocha</title>
-  </programme>
-  <programme start="20260207160000 -0600" stop="20260207170000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Nada Personal</title>
-    <desc lang="es">Nada Personal es una serie que trae Discovery Channel para Latinoamérica donde asesinos a sueldo son contratados para matar sin piedad.La serie tipo documental Nada Personal es presentada por Steve Schirippa, conocido por la serie de mafiosos “Los Soprano”. En este programa se verán historias verídicas de asesinatos hechos por contrato.En cada capítulo de la serie, se narra la historia de un trabajo profesional que trata de cómo se contacta, las instrucciones dadas al asesino para llevar a cabo las peticiones del cliente.</desc>
-    <date>2011</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/nada_personal.jpg" />
-  </programme>
-  <programme start="20260207170000 -0600" stop="20260207180000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Un día cualquiera</title>
-  </programme>
-  <programme start="20260207180000 -0600" stop="20260207190000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260207190000 -0600" stop="20260207200000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260207200000 -0600" stop="20260207210000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260207210000 -0600" stop="20260208000000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Rocío al límite</title>
-  </programme>
-  <programme start="20260208000000 -0600" stop="20260208010000 -0600" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
   <programme start="20260208010000 -0600" stop="20260208020000 -0600" channel="MX | Canal TV Azteca">
     <title lang="es">Rutas de la Vida</title>
   </programme>
@@ -2838,120 +2705,6 @@
   </programme>
   <programme start="20260208170000 -0600" stop="20260208180000 -0600" channel="MX | Canal TV Azteca">
     <title lang="es">Al extremo</title>
-  </programme>
-  <programme start="20260207000000 +0100" stop="20260207020000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga niemiecka - mecz: 1. FC Union Berlin - Eintracht Frankfurt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6428449.jpg" />
-  </programme>
-  <programme start="20260207020000 +0100" stop="20260207040000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga włoska - mecz: Hellas Werona - Pisa SC</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
-  </programme>
-  <programme start="20260207040000 +0100" stop="20260207044000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">LaLiga Best 11</title>
-    <sub-title lang="pl">Diego Forlan</sub-title>
-    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
-  </programme>
-  <programme start="20260207044000 +0100" stop="20260207052000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">LaLiga Best 11</title>
-    <sub-title lang="pl">Fernando Llorente</sub-title>
-    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
-  </programme>
-  <programme start="20260207052000 +0100" stop="20260207060000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">LaLiga Best 11</title>
-    <sub-title lang="pl">Fernando Morientes</sub-title>
-    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
-  </programme>
-  <programme start="20260207060000 +0100" stop="20260207065000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Z archiwum LaLiga</title>
-    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
-  </programme>
-  <programme start="20260207065000 +0100" stop="20260207073000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Z archiwum LaLiga</title>
-    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
-  </programme>
-  <programme start="20260207073000 +0100" stop="20260207080000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Pewnego razu w Gruzji - historia Khvichy Kvaratskhelii</title>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6225316.jpg" />
-  </programme>
-  <programme start="20260207080000 +0100" stop="20260207100000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga niemiecka - mecz: 1. FC Union Berlin - Eintracht Frankfurt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6428449.jpg" />
-  </programme>
-  <programme start="20260207100000 +0100" stop="20260207120000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga hiszpańska - mecz: Celta Vigo - CA Osasuna</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901288.jpg" />
-  </programme>
-  <programme start="20260207120000 +0100" stop="20260207123500 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Inside Serie A</title>
-    <desc lang="pl">Program dla fanów włoskiej ekstraklasy piłkarskiej, którzy znajdą w nim m.in. relacje zza kulis meczów, wywiady z gwiazdami Serie A, ciekawostki zarówno z minionych sezonów, jak i trwającej kampanii.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901250.jpg" />
-    <episode-num system="onscreen">E24</episode-num>
-  </programme>
-  <programme start="20260207123500 +0100" stop="20260207125500 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Bundesliga Clubs</title>
-    <sub-title lang="pl">Hamburger SV</sub-title>
-    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
-  </programme>
-  <programme start="20260207125500 +0100" stop="20260207145500 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">2. liga niemiecka - mecz: SV 07 Elversberg - Hertha BSC</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
-  </programme>
-  <programme start="20260207145500 +0100" stop="20260207153000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Bundesliga Special</title>
-    <sub-title lang="pl">Harry Kane - Records Rewritten</sub-title>
-    <desc lang="pl">Program poświęcony najwyższej klasie rozgrywkowej w Niemczech. Widzowie znajdą w nim informacje z obozów drużyn walczących o mistrzostwo Bundesligi oraz mnóstwo ciekawostek dotyczących m.in. piłkarzy.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3999513.jpg" />
-    <episode-num system="onscreen">E12</episode-num>
-  </programme>
-  <programme start="20260207153000 +0100" stop="20260207161000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga hiszpańska - studio</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901288.jpg" />
-  </programme>
-  <programme start="20260207161000 +0100" stop="20260207181000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga hiszpańska - mecz: FC Barcelona - RCD Mallorca</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6471079.jpg" />
-  </programme>
-  <programme start="20260207181000 +0100" stop="20260207182000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga hiszpańska - studio</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901288.jpg" />
-  </programme>
-  <programme start="20260207182000 +0100" stop="20260207202500 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga niemiecka - mecz: Borussia Mönchengladbach - Bayer 04 Leverkusen</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
-  </programme>
-  <programme start="20260207202500 +0100" stop="20260207204000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga niemiecka - studio</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
-  </programme>
-  <programme start="20260207204000 +0100" stop="20260207224000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga włoska - mecz: ACF Fiorentina - Torino FC</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6363477.jpg" />
-  </programme>
-  <programme start="20260207224000 +0100" stop="20260207230000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga włoska - studio</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
-  </programme>
-  <programme start="20260207230000 +0100" stop="20260208002000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Eleven Gol Live</title>
-    <desc lang="pl">Dziennikarze i eksperci stacji Eleven Sports podsumowują najciekawsze piłkarskie wydarzenia weekendu.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4742982.jpg" />
   </programme>
   <programme start="20260208002000 +0100" stop="20260208021500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga niemiecka - mecz: Borussia Mönchengladbach - Bayer 04 Leverkusen</title>
@@ -3494,153 +3247,116 @@
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
   </programme>
-  <programme start="20260207000000 +0100" stop="20260207020000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga francuska - mecz: FC Metz - Lille OSC</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
+  <programme start="20260213000000 +0100" stop="20260213020000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Liga niemiecka - mecz: VfL Wolfsburg - Borussia Dortmund</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6425159.jpg" />
   </programme>
-  <programme start="20260207020000 +0100" stop="20260207021500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Bundesliga Clubs</title>
-    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
-  </programme>
-  <programme start="20260207021500 +0100" stop="20260207023000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Bundesliga Clubs</title>
-    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
-  </programme>
-  <programme start="20260207023000 +0100" stop="20260207024500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Bundesliga Clubs</title>
-    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
-  </programme>
-  <programme start="20260207024500 +0100" stop="20260207030000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Bundesliga Clubs</title>
-    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
-  </programme>
-  <programme start="20260207030000 +0100" stop="20260207031500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Bundesliga Clubs</title>
-    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
-  </programme>
-  <programme start="20260207031500 +0100" stop="20260207033000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Bundesliga Clubs</title>
-    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
-  </programme>
-  <programme start="20260207033000 +0100" stop="20260207034500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Bundesliga Clubs</title>
-    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
-  </programme>
-  <programme start="20260207034500 +0100" stop="20260207040000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Bundesliga Clubs</title>
-    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
-  </programme>
-  <programme start="20260207040000 +0100" stop="20260207060000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20260213020000 +0100" stop="20260213040000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Liga włoska - mecz: Hellas Werona - Pisa SC</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
   </programme>
-  <programme start="20260207060000 +0100" stop="20260207080000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga hiszpańska - mecz: Celta Vigo - CA Osasuna</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901288.jpg" />
-  </programme>
-  <programme start="20260207080000 +0100" stop="20260207084000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Miguel Soler</title>
-    <desc lang="pl">Niewielu hiszpańskich zawodników może pochwalić się tak bogatym i zarazem kontrowersyjnym CV, jak Miguel Soler. Piłkarz występował między innymi w RCD Espanyolu, FC Barcelonie i w Realu Madryt.</desc>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
-  </programme>
-  <programme start="20260207084000 +0100" stop="20260207092000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Paco Gento</title>
-    <desc lang="pl">Paco Gento to legendarny piłkarz Realu Madryt, który w ekipie Królewskich spędził blisko dwadzieścia lat. Przyczynił się do wywalczenia dwunastu tytułów mistrza kraju i sześciu Pucharów Europy.</desc>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
-  </programme>
-  <programme start="20260207092000 +0100" stop="20260207100000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Ronaldo</title>
-    <desc lang="pl">Biografia Luisa Nazario de Limy. Piłkarski idol początkowo święcił triumfy w barwach FC Barcelony. Potem grał m.in. dla Realu Madryt. Ma w dorobku tytuł mistrza świata za wygranie mundialu w 2002 r.</desc>
+  <programme start="20260213040000 +0100" stop="20260213044000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Luis Suarez</title>
+    <desc lang="pl">Luis Suarez wzmocnił FC Barcelonę przed startem rozgrywek 2014/2015. Szybko stał się jednym ulubieńców kibiców Dumy Katalonii. W swoim debiutanckim sezonie w barwach Blaugrany wygrał on m.in. LM.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
   </programme>
-  <programme start="20260207100000 +0100" stop="20260207120000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga francuska - mecz: FC Metz - Lille OSC</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
+  <programme start="20260213044000 +0100" stop="20260213052000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Andoni Zubizarreta</title>
+    <desc lang="pl">Był symbolem hiszpańskiej piłki przełomu lat 80. i 90. Andoni Zubizarreta miał na koncie najwięcej występów w reprezentacji kraju. Rysą na jego karierze był błąd na mundialu w 1998 roku.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
   </programme>
-  <programme start="20260207120000 +0100" stop="20260207122000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Najlepsze gole Schalke 04</title>
-    <desc lang="pl">Barwy klubu FC Schalke 04 Gelsenkirchhen reprezentowało wielu snajperów, m.in. Klaus Fischer, Ebbe Sand, Kevin Kuranyi. W programie widzowie zobaczą najlepsze gole w historii drużyny z Gelsenkirchen.</desc>
+  <programme start="20260213052000 +0100" stop="20260213060000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Hugo Sanchez</title>
+    <desc lang="pl">Hugo Sanchez to symbol Realu Madryt drugiej połowy lat 80. Meksykanin był niezwykle skutecznym zawodnikiem - w sezonie 1989/1990 strzelił 38 goli i został najlepszym strzelcem Europy.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
+  </programme>
+  <programme start="20260213060000 +0100" stop="20260213065500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Z archiwum LaLiga</title>
+    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
     <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
   </programme>
-  <programme start="20260207122000 +0100" stop="20260207125500 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20260213065500 +0100" stop="20260213074000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Z archiwum LaLiga</title>
+    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901292.jpg" />
+  </programme>
+  <programme start="20260213074000 +0100" stop="20260213080000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">One Club Man</title>
+    <desc lang="pl">Widzowie poznają życiorysy piłkarzy, którzy przez całą swoją karierę reprezentowali barwy jednego klubu. Do tego grona należą m.in. Francesco Totti, Paolo Maldini Jamie Carragher czy Ryan Giggs.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419736.jpg" />
+  </programme>
+  <programme start="20260213080000 +0100" stop="20260213100000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Liga niemiecka - mecz: 1. FC Köln - RB Lipsk</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6373264.jpg" />
+  </programme>
+  <programme start="20260213100000 +0100" stop="20260213120000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Puchar Hiszpanii - mecz półfinałowy: Atletico Madryt - FC Barcelona</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6364478.jpg" />
+  </programme>
+  <programme start="20260213120000 +0100" stop="20260213140000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Liga włoska - mecz: Genoa CFC - SSC Napoli</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6153384.jpg" />
+  </programme>
+  <programme start="20260213140000 +0100" stop="20260213143000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Ligue 1 Show</title>
+    <desc lang="pl">Magazyn poświęcony rozgrywkom ligi francuskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762186.jpg" />
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20260213143000 +0100" stop="20260213150000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Full Impact</title>
+    <date>2025</date>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419724.jpg" />
+    <episode-num system="onscreen">E24</episode-num>
+  </programme>
+  <programme start="20260213150000 +0100" stop="20260213154000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Bundesliga Weekly</title>
     <desc lang="pl">Najnowsze informacje z boisk niemieckiej ekstraklasy. W programie m.in. relacje z treningów i konferencji prasowych, wywiady z zawodnikami, trenerami oraz szefami klubu.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3999513.jpg" />
-    <episode-num system="onscreen">E24</episode-num>
+    <episode-num system="onscreen">E25</episode-num>
   </programme>
-  <programme start="20260207125500 +0100" stop="20260207152000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">2. liga niemiecka - mecz: FC Schalke 04 - Dynamo Drezno</title>
+  <programme start="20260213154000 +0100" stop="20260213173500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Formuła 1: Przedsezonowe testy w Bahrajnie</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
+  </programme>
+  <programme start="20260213173500 +0100" stop="20260213175500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Podróż do świata Calcio</title>
+    <sub-title lang="pl">San Siro</sub-title>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
+  </programme>
+  <programme start="20260213175500 +0100" stop="20260213182500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłkarscy celebryci</title>
+    <desc lang="pl">Opowieść o piłkarzach, którzy są znani nie tylko ze swoich sportowych sukcesów, lecz także z show-biznesu. Niektórzy pojawiają się na stronach tabloidów częściej od gwiazd muzyki czy kina.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
+  </programme>
+  <programme start="20260213182500 +0100" stop="20260213204000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">2. liga niemiecka - mecz: 1. FC Nürnberg - Karlsruher SC</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
   </programme>
-  <programme start="20260207152000 +0100" stop="20260207173500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga niemiecka - mecz: VfL Wolfsburg - Borussia Dortmund</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6425159.jpg" />
+  <programme start="20260213204000 +0100" stop="20260213225000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Liga włoska - mecz: Pisa SC - AC Milan</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6565004.jpg" />
   </programme>
-  <programme start="20260207173500 +0100" stop="20260207175500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Dani Carvajal - serce wojownika</title>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419736.jpg" />
-  </programme>
-  <programme start="20260207175500 +0100" stop="20260207200000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga włoska - mecz: Genoa CFC - SSC Napoli</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6153384.jpg" />
-  </programme>
-  <programme start="20260207200000 +0100" stop="20260207201500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Bundesliga Clubs</title>
-    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
+  <programme start="20260213225000 +0100" stop="20260213233000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Magazyn piłkarski</title>
     <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1858033.jpg" />
   </programme>
-  <programme start="20260207201500 +0100" stop="20260207203500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Rywalizacje konieczne</title>
-    <desc lang="pl">Opowieść o rywalizacjach klubów z jednego miasta lub regionu. Twórcy dokumentu przybliżą kulisy m.in. derbów Sewilli czy Kraju Basków. Przy okazji spróbują opisać emocje, jakie się z nimi wiążą.</desc>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984456.jpg" />
-  </programme>
-  <programme start="20260207203500 +0100" stop="20260207210000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">One Club Man</title>
-    <desc lang="pl">Widzowie poznają życiorysy piłkarzy, którzy przez całą swoją karierę reprezentowali barwy jednego klubu. Do tego grona należą m.in. Francesco Totti, Paolo Maldini Jamie Carragher czy Ryan Giggs.</desc>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984494.jpg" />
-  </programme>
-  <programme start="20260207210000 +0100" stop="20260207230500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga francuska - mecz: FC Nantes - Olympique Lyon</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
-  </programme>
-  <programme start="20260207230500 +0100" stop="20260207234500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Bundesliga Special</title>
-    <sub-title lang="pl">Harry Kane - Records Rewritten</sub-title>
-    <desc lang="pl">Program poświęcony najwyższej klasie rozgrywkowej w Niemczech. Widzowie znajdą w nim informacje z obozów drużyn walczących o mistrzostwo Bundesligi oraz mnóstwo ciekawostek dotyczących m.in. piłkarzy.</desc>
+  <programme start="20260213233000 +0100" stop="20260214000000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Magazyn piłkarski</title>
     <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3999513.jpg" />
-    <episode-num system="onscreen">E12</episode-num>
-  </programme>
-  <programme start="20260207234500 +0100" stop="20260208000000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Bundesliga Clubs</title>
-    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1858033.jpg" />
   </programme>
   <programme start="20260208000000 +0100" stop="20260208020000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga francuska - mecz: FC Nantes - Olympique Lyon</title>
@@ -4216,5 +3932,134 @@
     <title lang="pl">Xabi Alonso - Architekt</title>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419736.jpg" />
+  </programme>
+  <programme start="20260213000000 +0100" stop="20260213020000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga francuska - mecz: FC Nantes - Olympique Lyon</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
+  </programme>
+  <programme start="20260213020000 +0100" stop="20260213021500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Bundesliga Clubs</title>
+    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+  </programme>
+  <programme start="20260213021500 +0100" stop="20260213023500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Bundesliga Clubs</title>
+    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+  </programme>
+  <programme start="20260213023500 +0100" stop="20260213025000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Bundesliga Clubs</title>
+    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+  </programme>
+  <programme start="20260213025000 +0100" stop="20260213030500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Bundesliga Clubs</title>
+    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+  </programme>
+  <programme start="20260213030500 +0100" stop="20260213032500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Bundesliga Clubs</title>
+    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+  </programme>
+  <programme start="20260213032500 +0100" stop="20260213034000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Bundesliga Clubs</title>
+    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+  </programme>
+  <programme start="20260213034000 +0100" stop="20260213040000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Bundesliga Clubs</title>
+    <desc lang="pl">Twórcy serii odsłaniają kulisy funkcjonowania klubów grających na szczeblu niemieckiej Bundesligi.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+  </programme>
+  <programme start="20260213040000 +0100" stop="20260213060000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga włoska - mecz: Hellas Werona - Pisa SC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
+  </programme>
+  <programme start="20260213060000 +0100" stop="20260213080000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga hiszpańska - mecz: Villarreal CF - RCD Espanyol</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6385217.jpg" />
+  </programme>
+  <programme start="20260213080000 +0100" stop="20260213084000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Magazyn piłkarski</title>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1858033.jpg" />
+  </programme>
+  <programme start="20260213084000 +0100" stop="20260213091500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Luis Suarez</title>
+    <desc lang="pl">Luis Suarez wzmocnił FC Barcelonę przed startem rozgrywek 2014/2015. Szybko stał się jednym ulubieńców kibiców Dumy Katalonii. W swoim debiutanckim sezonie w barwach Blaugrany wygrał on m.in. LM.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
+  </programme>
+  <programme start="20260213091500 +0100" stop="20260213094500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Legendy LaLiga</title>
+    <sub-title lang="pl">Roberto Carlos</sub-title>
+    <desc lang="pl">Autorzy programu prezentują sylwetki najlepszych piłkarzy w historii Primera Division.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6562264.jpg" />
+  </programme>
+  <programme start="20260213094500 +0100" stop="20260213100000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Ousmane Dembélé - Pierwsze kroki</title>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6272652.jpg" />
+  </programme>
+  <programme start="20260213100000 +0100" stop="20260213120000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga francuska - mecz: OGC Nice - AS Monaco</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6538672.jpg" />
+  </programme>
+  <programme start="20260213120000 +0100" stop="20260213140000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Puchar Niemiec - mecz ćwierćfinałowy: Hertha BSC - SC Freiburg</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
+  </programme>
+  <programme start="20260213140000 +0100" stop="20260213160000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga włoska - mecz: US Sassuolo Calcio - Inter Mediolan</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6570307.jpg" />
+  </programme>
+  <programme start="20260213160000 +0100" stop="20260213180000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Puchar Niemiec - mecz ćwierćfinałowy: FC Bayern Monachium - RB Lipsk</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6471802.jpg" />
+  </programme>
+  <programme start="20260213180000 +0100" stop="20260213183500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Inside Serie A</title>
+    <desc lang="pl">Program dla fanów włoskiej ekstraklasy piłkarskiej, którzy znajdą w nim m.in. relacje zza kulis meczów, wywiady z gwiazdami Serie A, ciekawostki zarówno z minionych sezonów, jak i trwającej kampanii.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901250.jpg" />
+    <episode-num system="onscreen">E25</episode-num>
+  </programme>
+  <programme start="20260213183500 +0100" stop="20260213202000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Puchar Hiszpanii - mecz półfinałowy: Atletico Madryt - FC Barcelona</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6364478.jpg" />
+  </programme>
+  <programme start="20260213202000 +0100" stop="20260213223500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga niemiecka - mecz: Borussia Dortmund - 1. FSV Mainz 05</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6609529.jpg" />
+  </programme>
+  <programme start="20260213223500 +0100" stop="20260213230500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Inside Serie A</title>
+    <desc lang="pl">Program dla fanów włoskiej ekstraklasy piłkarskiej, którzy znajdą w nim m.in. relacje zza kulis meczów, wywiady z gwiazdami Serie A, ciekawostki zarówno z minionych sezonów, jak i trwającej kampanii.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901250.jpg" />
+    <episode-num system="onscreen">E25</episode-num>
+  </programme>
+  <programme start="20260213230500 +0100" stop="20260213233500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Ligue 1 Preview</title>
+    <desc lang="pl">Magazyn poświęcony lidze francuskiej, a w nim zapowiedź wszystkich spotkań najbliższej kolejki.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20260213233500 +0100" stop="20260214000000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Bundesliga Weekly</title>
+    <desc lang="pl">Najnowsze informacje z boisk niemieckiej ekstraklasy. W programie m.in. relacje z treningów i konferencji prasowych, wywiady z zawodnikami, trenerami oraz szefami klubu.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3999513.jpg" />
+    <episode-num system="onscreen">E25</episode-num>
   </programme>
 </tv>
