@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 15/08/2026 11:44" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 16/08/2026 11:45" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1 Super UHD 4k">
     <display-name>La 1 Super UHD 4k</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png" />
@@ -21,178 +21,9 @@
     <display-name>Eleven Sports 2 Polonia</display-name>
     <icon src="http://epg.ovh/logo/Eleven+Sports+2.png" />
   </channel>
-	<programme start="20260815070000 +0200" stop="20260815100000 +0200" channel="La 1 Super UHD 4k">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-	</programme>
-	<programme start="20260815100000 +0200" stop="20260815110000 +0200" channel="La 1 Super UHD 4k">
-    <title>Viaje al centro de la tele T10 · Programación infantil</title>
-    <desc>Entretenimiento,Zapping | 2022 | TP | *6.0/10
-· "Viaje al centro de la tele" quiere que rememoremos los programas infantiles.
-· País: España
-· Dirección: Pedro Santos.</desc>
-	</programme>
-	<programme start="20260815110000 +0200" stop="20260815120500 +0200" channel="La 1 Super UHD 4k">
-    <title>Viaje al centro de la tele exprés T1 · Especial tocata, ilustres visitantes (Primera parte)</title>
-    <desc>Entretenimiento,Zapping | 2021 | TP | *6.4/10
-· Primera entrega dedicada al programa musical Tocata.
-· País: España</desc>
-	</programme>
-	<programme start="20260815120500 +0200" stop="20260815130500 +0200" channel="La 1 Super UHD 4k">
-    <title>Viaje al centro de la tele T10 · De todo corazón, corazón</title>
-    <desc>Entretenimiento,Zapping | 2022 | TP | *6.2/10
-· Un viaje por los mejores momentos de los diecisiete años de emisión del programa Corazón.
-· País: España
-· Dirección: Pedro Santos.</desc>
-	</programme>
-	<programme start="20260815130500 +0200" stop="20260815145500 +0200" channel="La 1 Super UHD 4k">
-    <title>D Corazón T3 E65</title>
-    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *6.2/10
-· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
-· País: España
-· Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
-	</programme>
-	<programme start="20260815145500 +0200" stop="20260815154500 +0200" channel="La 1 Super UHD 4k">
-    <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | *4.2/10
-· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
-· País: España
-· Presenta: Marc Sala, Lourdes Maldonado.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-	<programme start="20260815154500 +0200" stop="20260815155000 +0200" channel="La 1 Super UHD 4k">
-    <title>Deportes 1</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-	</programme>
-	<programme start="20260815155000 +0200" stop="20260815155500 +0200" channel="La 1 Super UHD 4k">
-    <title>La suerte en tus manos</title>
-    <desc>Ocio y Aficiones,Juegos | 2026 | TP | *6.0/10
-· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-· País: España
-· Presenta: Silvia Salgado.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-	<programme start="20260815155500 +0200" stop="20260815173000 +0200" channel="La 1 Super UHD 4k">
-    <title>Amor con preaviso</title>
-    <desc>Cine,Comedia romántica | 2002 | TP | *7.0/10
-· Lucy Kelson, una brillante abogada educada en Harvard, con una mente estratégica y concienciada socialmente, entra a trabajar, a regañadientes, para el millonario George Wade, un solterón machista que encarna todo lo que ella odia.
-· País: Australia y Estados Unidos
-· Dirección: Marc Lawrence.
-· Reparto: Hugh Grant, Sandra Bullock, Dana Ivey, Robert Klein, David Haig, Dorian Missick, Jason Antoon, Heather Burns, Alicia Witt.
-· Guion: Marc Lawrence.
-· Música: John Powell.
-· Producción: Sandra Bullock.
-· Productora: Warner Bros. Pictures, Castle Rock Entertainment, Village Roadshow Pictures, Fortis Films Productions, NPV Entertainment.</desc>
-	</programme>
-	<programme start="20260815173000 +0200" stop="20260815190500 +0200" channel="La 1 Super UHD 4k">
-    <title>Loca obsesión</title>
-    <desc>Cine,Comedia | 2009 | TP | *6.0/10
-· Para Mary, nada es normal, sobre todo su relación con los demás. Cuando le organizan una cita a ciegas con el apuesto operador de cámara Steve, Mary cree que la química entre ellos es evidente...mientras que Steve piensa que Mary está completamente loca.
-· País: Estados Unidos
-· Dirección: Phil Traill, Philip Traill.
-· Reparto: Sandra Bullock, Howard Hesseman, Keith David, DJ Qualls, Bradley Cooper, Beth Grant, Thomas Haden Church, Katy Mixon, Ken Jeong.
-· Guion: Kim Barker.
-· Música: Christophe Beck.
-· Producción: Sandra Bullock, Mary McLaglen.
-· Productora: Fortis Films Productions, Fox 2000 Pictures, Radar Pictures Inc.</desc>
-	</programme>
-	<programme start="20260815190500 +0200" stop="20260815192000 +0200" channel="La 1 Super UHD 4k">
-    <title>Cine de barrio</title>
-    <desc>Cine,Programa de cine | 1995 | +12 | *6.0/10
-· Proyección de una película española y tertulia relajada y amistosa con los protagonistas de la misma. Los invitados son actores de la gran pantalla de toda la vida, que a parte de presentar el filme, informan de sus planes profesionales.
-· País: España
-· Presenta: Inés Ballester.
-· Dirección: Francisco Quintanar.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-	<programme start="20260815192000 +0200" stop="20260815205500 +0200" channel="La 1 Super UHD 4k">
-    <title>Los pecados de una chica casi decente</title>
-    <desc>Cine,Comedia | 1975 | +12 | *6.2/10
-· En un pueblo italiano, el cura intenta que nadie cuente al obispo que el novio de su hermana apareció muerto en la cama de su suegra.
-· País: España
-· Dirección: Mariano Ozores.
-· Reparto: Lina Morgan, Alfredo Landa, Antonio Ferrandis, Queta Claver, Rafael R. Téllez, Ángel Menéndez, Francisco Camoiras, Adrián Ortega, Joaquín Roa, Pedro Valentín.
-· Guion: Mariano Ozores, Pedro Mario Herrero.
-· Producción: Julián Esteban.
-· Productora: Producciones Cinematográficas D.I.A., Lotus Films.</desc>
-	</programme>
-	<programme start="20260815205500 +0200" stop="20260815212500 +0200" channel="La 1 Super UHD 4k">
-    <title>Telediario 2 Fin de Semana</title>
-    <desc>Información,Informativo | 2017 | TP | *4.0/10
-· Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
-· País: España
-· Presenta: Marc Sala, Lourdes Maldonado.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-	<programme start="20260815212500 +0200" stop="20260815213000 +0200" channel="La 1 Super UHD 4k">
-    <title>Deportes 2</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-	</programme>
-	<programme start="20260815213000 +0200" stop="20260815220500 +0200" channel="La 1 Super UHD 4k">
-    <title>Informe Semanal T25/26 E46</title>
-    <desc>Información,Reportaje | 2026 | +7 | *6.4/10
-· "Informe Semanal" repasa cómo se ha vivido el eclipse solar en distintos puntos de España. Además, prestará atención al terremoto en Colombia y a la crisis en Ceuta.
-· País: España
-· Presenta: Lourdes Maldonado.
-· Dirección: Jenaro Castro Muiña.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-	<programme start="20260815220500 +0200" stop="20260815235500 +0200" channel="La 1 Super UHD 4k">
-    <title>Pídeme lo que quieras</title>
-    <desc>Cine,Drama | 2024 | +16 | *6.2/10
-· Eric Zimmerman viaja a España. En Madrid, se enamora de Judith y viven una relación intensa. Pero Eric teme que su secreto pueda terminar su romance.
-· País: España
-· Dirección: Lucía Alemany.
-· Reparto: Gabriela Andrada, Mario Ermito, Celia Freijeiro, David Solans, Alba Ribas.
-· Guion: Ivy Hesh.
-· Música: Vanessa Garde.
-· Productora: Versus Entertainment.</desc>
-	</programme>
-	<programme start="20260815235500 +0200" stop="20260816013000 +0200" channel="La 1 Super UHD 4k">
-    <title>Poliamor para principiantes</title>
-    <desc>Cine,Comedia | 2021 | +12 | *5.6/10
-· Manu, 28 años, es un friki romántico e intento de youtuber que aún vive con sus padres. Conoce a Amanda, doctora que practica el poliamor, de la que no puede evitar enamorarse. Tendrá pues que pelearse por convertirse en protagonista de esta relación.
-· País: España y Francia
-· Dirección: Fernando Colomo.
-· Reparto: Karra Elejalde, Quim Àvila, María Pedraza, Toni Acosta.
-· Guion: Fernando Colomo, Casandra Macías Gago, Marina Maesso.
-· Productora: Morena Films S.L, Ran Entertainment, Amazon Prime Video.</desc>
-	</programme>
-	<programme start="20260816013000 +0200" stop="20260816025500 +0200" channel="La 1 Super UHD 4k">
-    <title>Anacleto: Agente secreto</title>
-    <desc>Cine,Comedia | 2015 | +16 | *6.2/10
-· Adolfo, un desventurado guardia de seguridad, se convierte en el objetivo de un peligroso criminal.
-· País: España
-· Dirección: Javier Ruiz Caldera.
-· Reparto: Imanol Arias, Quim Gutiérrez, Berto Romero, Alexandra Jiménez, Emilio Gutiérrez Caba, Carlos Areces.
-· Guion: Pablo Alén, Breixo Corral, Fernando Navarro.
-· Música: Javier Rodero.
-· Producción: Francisco Ramos, Gabriel Arias-Salgado, Axel Kuschevatzky.
-· Productora: Telefonica Studios, Zeta Audiovisual, Agente Secreto 2015.</desc>
-	</programme>
-	<programme start="20260816025500 +0200" stop="20260816060000 +0200" channel="La 1 Super UHD 4k">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-	</programme>
-	<programme start="20260816060000 +0200" stop="20260816070000 +0200" channel="La 1 Super UHD 4k">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-	</programme>
 	<programme start="20260816070000 +0200" stop="20260816100500 +0200" channel="La 1 Super UHD 4k">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
+    <desc>Información,Informativo | 2021 | TP | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
 	</programme>
@@ -219,14 +50,14 @@
 	</programme>
 	<programme start="20260816130500 +0200" stop="20260816145500 +0200" channel="La 1 Super UHD 4k">
     <title>D Corazón T3 E66</title>
-    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *6.0/10
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *6.2/10
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
 · Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
 	</programme>
 	<programme start="20260816145500 +0200" stop="20260816152000 +0200" channel="La 1 Super UHD 4k">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | *4.2/10
+    <desc>Información,Informativo | 2021 | TP | *4.2/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -335,13 +166,13 @@
 	</programme>
 	<programme start="20260817034500 +0200" stop="20260817060000 +0200" channel="La 1 Super UHD 4k">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
+    <desc>Información,Informativo | 2021 | TP | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
 	</programme>
 	<programme start="20260817060000 +0200" stop="20260817070000 +0200" channel="La 1 Super UHD 4k">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
+    <desc>Información,Informativo | 2021 | TP | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
 	</programme>
@@ -355,21 +186,21 @@
 	</programme>
 	<programme start="20260817083000 +0200" stop="20260817103500 +0200" channel="La 1 Super UHD 4k">
     <title>La hora de La 1: La hora de la actualidad T9 E161</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *4.8/10
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *5.4/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
 	</programme>
 	<programme start="20260817103500 +0200" stop="20260817145500 +0200" channel="La 1 Super UHD 4k">
-    <title>Mañaneros 360 T2</title>
-    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+    <title>Mañaneros 360 T2 E246</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.4/10
 · Magazín de actualidad conducido por Adela González y Aída Bao, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Aida Bao.</desc>
 	</programme>
 	<programme start="20260817145500 +0200" stop="20260817153000 +0200" channel="La 1 Super UHD 4k">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | TP | *6.2/10
+    <desc>Información,Informativo | 2014 | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -419,22 +250,22 @@
 · Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
 	</programme>
 	<programme start="20260817193500 +0200" stop="20260817202500 +0200" channel="La 1 Super UHD 4k">
-    <title>Malas lenguas T2</title>
-    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.2/10
+    <title>Malas lenguas T2 E233</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
 · Gonzalo Miró y Ane Ibarzabal presentan este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
 	</programme>
 	<programme start="20260817202500 +0200" stop="20260817205500 +0200" channel="La 1 Super UHD 4k">
-    <title>Aquí la Tierra</title>
-    <desc>Entretenimiento,Magacín | 2025 | TP | *6.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+    <title>Aquí la Tierra T15 E803</title>
+    <desc>Entretenimiento,Magacín | 2026 | TP | *6.2/10
+· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
-· Presenta: Jacob Petrus, Marc Santandreu.</desc>
+· Presenta: Marc Santandreu.</desc>
 	</programme>
 	<programme start="20260817205500 +0200" stop="20260817214000 +0200" channel="La 1 Super UHD 4k">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -994,259 +825,133 @@
     <title>Cine</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20260815061400 +0200" stop="20260815071000 +0200" channel="La 2 Super Full HD 8k">
-    <title>La España salvaje. La historia de dos hermanos</title>
-    <desc>Cine,Cine documental | 2023 | TP | *6.4/10
-· La aventura de dos hermanos, que por todo el país, filman la fauna más impresionante. Durante el viaje, conoceremos seres que no entienden de fronteras y que tampoco saben por qué el mundo cambia.
-· País: España
-· Dirección: Jordi Escandell.
-· Productora: IB3.</desc>
-	</programme>
-	<programme start="20260815071000 +0200" stop="20260815080100 +0200" channel="La 2 Super Full HD 8k">
-    <title>Sabores del mundo T1 · Provenza, la belleza eterna</title>
-    <desc>Ocio y Aficiones,Viajes | 2021 | TP | *5.0/10
-· Un viaje por las tradiciones y la historia de los mejores destinos del mundo a través de sus monumentos, artesanías y paisajes más espectaculares.
-· País: Francia
-· Presenta: Anatole De Bodinat.</desc>
-	</programme>
-	<programme start="20260815080100 +0200" stop="20260815092000 +0200" channel="La 2 Super Full HD 8k">
-    <title>Los conciertos de La 2 T25/26 · Donación F. Juan March Vizconde</title>
-    <desc>Música,Música clásica | 2026 | TP | *5.6/10
-· Retransmisión de un concierto de la Orquestra Sinfónica o del Coro de RTVE.
-· País: España
-· Dirección: Arturo Morales.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-	<programme start="20260815092000 +0200" stop="20260815092500 +0200" channel="La 2 Super Full HD 8k">
-    <title>Los conciertos de La 2 T25/26 · OCRTVE B-12</title>
-    <desc>Música,Música clásica | 2026 | TP | *6.0/10
-· Retransmisión de un concierto de la Orquestra Sinfónica o del Coro de RTVE.
-· País: España
-· Dirección: Arturo Morales.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-	<programme start="20260815092500 +0200" stop="20260815093500 +0200" channel="La 2 Super Full HD 8k">
-    <title>Los conciertos de La 2 T25/26 · Concierto Navidad "El Mesías". Capilla Real</title>
-    <desc>Música,Música clásica | 2025 | TP | *5.8/10
-· Especial Música en Nochebuena de la Orquesta y Coro RTVE, desde la Capilla del Palacio Real. Organizado por Patrimonio Nacional, dirigido por Carlos Mena.
-· País: España
-· Dirección: Arturo Morales.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-	<programme start="20260815093500 +0200" stop="20260815103000 +0200" channel="La 2 Super Full HD 8k">
-    <title>Reduce tu huella T3 · Ecoaldea Los Portales: convivir y cuidar</title>
-    <desc>Cultural/Educativo,Programa cultural | 2022 | TP | *5.8/10
-· Adela y su equipo deciden pasar una semana en la Ecoaldea Los Portales, Sevilla.
-· País: España
-· Presenta: Adela Ucar.</desc>
-	</programme>
-	<programme start="20260815103000 +0200" stop="20260815113000 +0200" channel="La 2 Super Full HD 8k">
-    <title>El día del señor T2026 · Parroquia De Sta. Maria La Antigua, Madrid</title>
-    <desc>Cultural/Educativo,Religión | 2026 | TP | *6.2/10
-· Programa religioso que retransmite la celebración de la eucaristía desde diferentes parroquias de toda España y un reportaje relacionado con la localidad, su patrimonio cultural, artístico, o de la festividad que se celebra en la liturgia.
-· País: España
-· Dirección: Juan Carlos Ramos.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-	<programme start="20260815113000 +0200" stop="20260815120000 +0200" channel="La 2 Super Full HD 8k">
-    <title>Caravana educativa T1 · Mallorca</title>
-    <desc>Cultural/Educativo,Formación | 2024 | TP | *5.6/10
-· La música lleva a Sara hasta Mallorca. En esta isla le espera Arantxa Riera, experta en educación musical infantil. Veremos cómo trabaja los sonidos, el ritmo o la melodía con niños de distintas edades.
-· País: España
-· Presenta: Sara Escudero, Luis Quevedo.</desc>
-	</programme>
-	<programme start="20260815120000 +0200" stop="20260815123000 +0200" channel="La 2 Super Full HD 8k">
-    <title>Jardines con historia: Segovia-Jardines del Alcázar y Romeral de san marcos</title>
-    <desc>Documentales,Naturaleza | 2023 | TP | *6.6/10
-· Los fértiles valles que rodean la ciudad de Segovia estuvieron tradicionalmente destinados a la creación de huertas. Con el paso del tiempo, algunas desaparecieron y otras se convirtieron en jardines tan especiales como los del Alcázar.
-· País: España
-· Presenta: Mónica Luengo.
-· Productora: Radio Televisión Española (RTVE), Time Zone, S.L.</desc>
-	</programme>
-	<programme start="20260815123000 +0200" stop="20260815125500 +0200" channel="La 2 Super Full HD 8k">
-    <title>Jardines con historia: Madrid: Campo del Moro</title>
-    <desc>Documentales,Naturaleza | 2023 | TP | *6.6/10
-· El Campo del Moro es el jardín histórico más singular de Madrid.
-· País: España
-· Presenta: Mónica Luengo.
-· Productora: Radio Televisión Española (RTVE), Time Zone, S.L.</desc>
-	</programme>
-	<programme start="20260815125500 +0200" stop="20260815132500 +0200" channel="La 2 Super Full HD 8k">
-    <title>Página 2 T19 · David Uclés</title>
-    <desc>Cultural/Educativo,Literatura | 2026 | TP | *5.6/10
-· Óscar López se desplaza a Barcelona para pasear con David Uclés, Premio Nadal 2026, que hablará sobre su última novela 'La ciudad de las luces muertas', en la que un apagón produce un desfase espacio temporal.
-· País: España
-· Presenta: Óscar López.</desc>
-	</programme>
-	<programme start="20260815132500 +0200" stop="20260815142000 +0200" channel="La 2 Super Full HD 8k">
-    <title>Tendido cero T25/26 E47</title>
-    <desc>Toros,Corrida de toros | 2026 | +12 | *5.4/10
-· Programa sobre el mundo de los toros con reportajes, entrevistas y retransmisiones.
-· País: España
-· Dirección: Belén Plaza.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-	<programme start="20260815142000 +0200" stop="20260815144500 +0200" channel="La 2 Super Full HD 8k">
-    <title>Mi familia en la mochila. Family run T5 · Aventuras entre delfines y nubes en Cádiz</title>
-    <desc>Ocio y Aficiones,Viajes | 2022 | TP | *5.4/10
-· El programa participa en el Spartan Race en Cádiz.
+	<programme start="20260822014500 +0200" stop="20260822060000 +0200" channel="La 1 Super UHD 4k">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
 	</programme>
-	<programme start="20260815144500 +0200" stop="20260815153000 +0200" channel="La 2 Super Full HD 8k">
-    <title>Saber y ganar fin de semana T15 E12</title>
-    <desc>Entretenimiento,Concurso | 2025 | TP | *5.8/10
-· Edición de fin de semana del concurso más longevo de Televisión Española.
-· País: España
-· Presenta: Rodrigo Vázquez, Núria Ramírez.</desc>
-	</programme>
-	<programme start="20260815153000 +0200" stop="20260815162000 +0200" channel="La 2 Super Full HD 8k">
-    <title>Saber y ganar fin de semana T15 E64</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | *6.2/10
-· Edición de fin de semana del concurso más longevo de Televisión Española.
-· País: España
-· Presenta: Rodrigo Vázquez, Núria Ramírez.</desc>
-	</programme>
-	<programme start="20260815162000 +0200" stop="20260815171000 +0200" channel="La 2 Super Full HD 8k">
-    <title>El mar arábigo: Los defensores del arrecife · Mar d'Aràbia: Els defensors de l'escull</title>
-    <desc>Documentales,Naturaleza | 2017 | TP | *6.6/10
-· En los arrecifes arábigos abundan los grandes depredadores.</desc>
-	</programme>
-	<programme start="20260815171000 +0200" stop="20260815180500 +0200" channel="La 2 Super Full HD 8k">
-    <title>Castor, un superhéroe de la naturaleza</title>
-    <desc>Documentales,Naturaleza | 2024 | TP | *5.8/10
-· El castor, maestro del agua y la tierra, revela sus asombrosos poderes ocultos.
-· País: Francia
-· Dirección: Basile Gerbaud.</desc>
-	</programme>
-	<programme start="20260815180500 +0200" stop="20260815183500 +0200" channel="La 2 Super Full HD 8k">
-    <title>Profesiones salvajes: Enterradores</title>
-    <desc>Documentales,Naturaleza | 2019 | +7 | *6.0/10
-· Las especies carroñeras sobreviven gracias a los restos de otros animales y, de esta forma, mantienen limpio el ecosistema.
+	<programme start="20260822060000 +0200" stop="20260822070000 +0200" channel="La 1 Super UHD 4k">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
 	</programme>
-	<programme start="20260815183500 +0200" stop="20260815190500 +0200" channel="La 2 Super Full HD 8k">
-    <title>Esto es España: Lanzarote Un mundo rojo en el Atlántico</title>
-    <desc>Documentales,Viajes | 2023 | TP | *6.0/10
-· Recorremos con Enrique Alex uno de los lugares más sorprendentes de este mundo, una joya de fuego y mar que parece de otro planeta. Tierra de volcanes y arena negra, pero también de playas doradas y viñedos imposibles.
-· País: España
-· Dirección: Enrique Alex.
-· Productora: RTVE Play, Instituto de Turismo de España.</desc>
+	<programme start="20260822070000 +0200" stop="20260822111500 +0200" channel="La 1 Super UHD 4k">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
 	</programme>
-	<programme start="20260815190500 +0200" stop="20260815193500 +0200" channel="La 2 Super Full HD 8k">
-    <title>Esto es España: Menorca</title>
-    <desc>Documentales,Viajes | 2023 | TP | *5.8/10
-· Enrique Alex recorrerá a pie y en bicicleta el histórico Camí de Cavalls en busca de una manera diferente de disfrutar de Menorca. Por el trayecto encontrará ciudades fúnebres milenarias, cuevas rodeadas de misterio y encantadores pueblos blancos.
+	<programme start="20260822111500 +0200" stop="20260822114500 +0200" channel="La 1 Super UHD 4k">
+    <title>Audiencia abierta</title>
+    <desc>Información,Política | 2012 | TP | *6.0/10
+· Espacio semanal de servicio público sobre la Jefatura del Estado.
 · País: España
-· Dirección: Enrique Alex.
-· Productora: RTVE Play, Instituto de Turismo de España.</desc>
+· Dirección: Miguel Ángel Sacaluga.</desc>
 	</programme>
-	<programme start="20260815193500 +0200" stop="20260815200500 +0200" channel="La 2 Super Full HD 8k">
-    <title>Días de cine T36 E51</title>
-    <desc>Cine,Programa de cine | 2026 | +12 | *6.0/10
-· Programa que informa sobre la actualidad cinematográfica nacional e internacional.
+	<programme start="20260822114500 +0200" stop="20260822133000 +0200" channel="La 1 Super UHD 4k">
+    <title>Viaje al centro de la tele T14</title>
+    <desc>Entretenimiento,Zapping | 2024 | TP | *6.2/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España
-· Dirección: Gerardo Sánchez.
+· Dirección: Pedro Santos.</desc>
+	</programme>
+	<programme start="20260822133000 +0200" stop="20260822145500 +0200" channel="La 1 Super UHD 4k">
+    <title>D Corazón T3</title>
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *6.0/10
+· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
+· País: España
+· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
+	</programme>
+	<programme start="20260822145500 +0200" stop="20260822154500 +0200" channel="La 1 Super UHD 4k">
+    <title>Telediario 1 Fin de Semana</title>
+    <desc>Información,Informativo | 2021 | TP | *4.2/10
+· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
+· País: España
+· Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
 	</programme>
-	<programme start="20260815200500 +0200" stop="20260815210500 +0200" channel="La 2 Super Full HD 8k">
-    <title>El extraordinario mundo de los hongos</title>
-    <desc>Documentales,Naturaleza | 2024 | TP | *6.0/10
-· Los hongos crean un mundo misterioso y fantástico. Maestros de la simbiosis, parásitos peligrosos y químicos virtuosos; son superhéroes no reconocidos del mundo vivo.</desc>
-	</programme>
-	<programme start="20260815210500 +0200" stop="20260815213500 +0200" channel="La 2 Super Full HD 8k">
-    <title>Cifras y letras T3 E50</title>
-    <desc>Entretenimiento,Concurso | 2025 | TP | *6.2/10
-· Concurso cuyas pruebas deben superarse jugando con cifras y letras y donde, en cada entrega, los concursantes luchan por llevarse el bote acumulado. Presentado por Aitor Albizua, acompañado por los expertos Elena Herraiz y David Calle.
+	<programme start="20260822154500 +0200" stop="20260822155000 +0200" channel="La 1 Super UHD 4k">
+    <title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
 · País: España
-· Presenta: Aitor Albizua.
-· Productora: Radio Televisión Española (RTVE).</desc>
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
 	</programme>
-	<programme start="20260815213500 +0200" stop="20260815224000 +0200" channel="La 2 Super Full HD 8k">
-    <title>¡Cómo nos reímos! T8 · I love chistes</title>
-    <desc>Entretenimiento,Humor | 2020 | +7 | *6.2/10
-· Programa que recupera las mejores actuaciones de distintos cómicos españoles.
+	<programme start="20260822155000 +0200" stop="20260822155500 +0200" channel="La 1 Super UHD 4k">
+    <title>La suerte en tus manos</title>
+    <desc>Ocio y Aficiones,Juegos | 2026 | TP | *6.0/10
+· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
 · País: España
-· Dirección: Daniel Villasante.</desc>
+· Presenta: Silvia Salgado.
+· Productora: Televisión Española (TVE).</desc>
 	</programme>
-	<programme start="20260815224000 +0200" stop="20260815234000 +0200" channel="La 2 Super Full HD 8k">
-    <title>¡Cómo nos reímos! T11 · La cara B de Eugenio</title>
-    <desc>Entretenimiento,Humor | 2023 | +7 | *6.0/10
-· ¿Cuántos chistes seguidos era capaz de contar Eugenio y en cuántas posibles variaciones? Este episodio cuenta con imágenes inéditas las múltiples versiones de las actuaciones del cómico.
+	<programme start="20260822155500 +0200" stop="20260822174000 +0200" channel="La 1 Super UHD 4k">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260822174000 +0200" stop="20260822201500 +0200" channel="La 1 Super UHD 4k">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260822201500 +0200" stop="20260822205500 +0200" channel="La 1 Super UHD 4k">
+    <title>Aquí la Tierra</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | *6.0/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
-· Dirección: Daniel Villasante.</desc>
+· Presenta: Jacob Petrus, Marc Santandreu.</desc>
 	</programme>
-	<programme start="20260815234000 +0200" stop="20260816004500 +0200" channel="La 2 Super Full HD 8k">
-    <title>¡Cómo nos reímos! T9 · Sopa de chistes</title>
-    <desc>Entretenimiento,Humor | 2021 | +7 | *6.6/10
-· El programa trata uno de los elementos del humor que más misterio tiene, ya que el mismo chiste contado por dos personas diferentes cambia y de qué manera.
+	<programme start="20260822205500 +0200" stop="20260822212500 +0200" channel="La 1 Super UHD 4k">
+    <title>Telediario 2 Fin de Semana</title>
+    <desc>Información,Informativo | 2017 | TP | *4.0/10
+· Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
 · País: España
-· Dirección: Daniel Villasante.</desc>
+· Presenta: Marc Sala, Lourdes Maldonado.
+· Productora: Televisión Española (TVE).</desc>
 	</programme>
-	<programme start="20260816004500 +0200" stop="20260816014500 +0200" channel="La 2 Super Full HD 8k">
-    <title>¡Cómo nos reímos! T12 · El hombre de negro</title>
-    <desc>Entretenimiento,Humor | 2024 | +7 | *6.0/10
-· El gran maestro del chiste Eugenio tiene su episodio monográfico. El título es un claro guiño a su uniforme negro y al gran Johnny Cash. Hemos encontrado un tesoro en el archivo, una entrevista tan única como hilarante.
+	<programme start="20260822212500 +0200" stop="20260822213000 +0200" channel="La 1 Super UHD 4k">
+    <title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
 · País: España
-· Dirección: Daniel Villasante.</desc>
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
 	</programme>
-	<programme start="20260816014500 +0200" stop="20260816024000 +0200" channel="La 2 Super Full HD 8k">
-    <title>Nosotros, nuestras mascotas y la guerra</title>
-    <desc>Cine,Cine documental | 2024 | TP | *5.8/10
-· En plena guerra y rodeados de violencia, muchos ucranianos están dedicando esfuerzos a salvar a los animales que quedaron atrás cuando sus dueños tuvieron que escapar.
-· País: Canadá, Estados Unidos y Ucrania
-· Dirección: Anton Ptushkin.
-· Productora: BCE Cam.</desc>
-	</programme>
-	<programme start="20260816024000 +0200" stop="20260816033500 +0200" channel="La 2 Super Full HD 8k">
-    <title>La guerra relámpago</title>
-    <desc>Documentales,Ciencia tecnología | 2024 | TP | *6.0/10
-· Este documental ahonda en el preocupante mundo de las armas autónomas. Policía y fuerzas de seguridad privadas se están preparando para esta nueva tecnología que dará forma a las guerras en un futuro.
-· País: Austria
-· Dirección: Daniel Andrew Wunderer.
-· Productora: BLUE+GREEN Communications.</desc>
-	</programme>
-	<programme start="20260816033500 +0200" stop="20260816042000 +0200" channel="La 2 Super Full HD 8k">
-    <title>Los secretos sexuales de Hitler · Imagen Corporal</title>
-    <desc>Documentales,Historia | 2020 | +16 | *6.4/10
-· Hitler quería que el mundo creyera que poseía cualidades sobrehumanas, pero la realidad era muy diferente y escondió secretos impactantes durante toda su vida.
-· País: Estados Unidos
-· Dirección: Brendan Dahill (I).</desc>
-	</programme>
-	<programme start="20260816042000 +0200" stop="20260816050500 +0200" channel="La 2 Super Full HD 8k">
-    <title>Los secretos sexuales de Hitler · Asuntos familiares</title>
-    <desc>Documentales,Historia | 2020 | +16 | *6.2/10
-· Adolf Hitler creció en un hogar disfuncional e incestuoso. Sus progenitores eran parientes cercanos y su padre a menudo le golpeaba a él y a sus hermanos.
-· País: Estados Unidos
-· Dirección: Brendan Dahill (I).</desc>
-	</programme>
-	<programme start="20260816050500 +0200" stop="20260816055500 +0200" channel="La 2 Super Full HD 8k">
-    <title>El mar arábigo: Festín en las islas</title>
-    <desc>Documentales,Naturaleza | 2017 | TP | *6.6/10
-· En las aguas de un archipiélago de Omán, durante el verano, los nutrientes ascienden.
-· País: Canadá
-· Productora: Blue Ant Media.</desc>
-	</programme>
-	<programme start="20260816055500 +0200" stop="20260816061500 +0200" channel="La 2 Super Full HD 8k">
-    <title>¡Qué animal! T5 · Domésticos Parte 2</title>
-    <desc>Ocio y Aficiones,Naturaleza | 2020 | TP | *6.8/10
-· La domesticación es una de las grandes evoluciones de la historia de la humanidad.
+	<programme start="20260822213000 +0200" stop="20260822220500 +0200" channel="La 1 Super UHD 4k">
+    <title>Informe Semanal T25/26</title>
+    <desc>Información,Reportaje | 2025 | +7 | *6.0/10
+· Cuatro reportajes de media hora de la actualidad nacional e internacional.
 · País: España
-· Presenta: Evelyn Segura.</desc>
+· Presenta: Lourdes Maldonado.
+· Dirección: Jenaro Castro Muiña.
+· Productora: Televisión Española (TVE).</desc>
 	</programme>
-	<programme start="20260816061500 +0200" stop="20260816064000 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260822220500 +0200" stop="20260822234000 +0200" channel="La 1 Super UHD 4k">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260822234000 +0200" stop="20260823015500 +0200" channel="La 1 Super UHD 4k">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260823015500 +0200" stop="20260823032500 +0200" channel="La 1 Super UHD 4k">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260816061500 +0200" stop="20260816064300 +0200" channel="La 2 Super Full HD 8k">
     <title>Reportero de la historia E2</title>
     <desc>Documentales,Historia | 2010 | +7 | *6.0/10
 · Un espacio que bucea en los hechos más importantes acontecidos en España entre el siglo XV y el XX y que han asentado las bases de la sociedad española actual. El programa se basa en el trabajo y las investigaciones del periodista Jacinto Antón.
 · País: España</desc>
 	</programme>
-	<programme start="20260816064000 +0200" stop="20260816073500 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260816064300 +0200" stop="20260816073700 +0200" channel="La 2 Super Full HD 8k">
     <title>Sabores del mundo T1 · Italia, las islas románticas</title>
-    <desc>Ocio y Aficiones,Viajes | 2021 | TP | *5.2/10
+    <desc>Ocio y Aficiones,Viajes | 2021 | TP | *6.0/10
 · A lo largo de la costa de Italia, el mar Tirreno esconde dos joyas.
 · País: Francia
 · Presenta: Anatole De Bodinat.</desc>
 	</programme>
-	<programme start="20260816073500 +0200" stop="20260816082500 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260816073700 +0200" stop="20260816082500 +0200" channel="La 2 Super Full HD 8k">
     <title>planeta arqueología: Cuando el pasado se explica · Conseguir que hablen los yacimientos</title>
     <desc>Documentales,Naturaleza | 2022 | TP | *6.4/10
 · Los yacimientos arqueológicos se enfrentan a una carrera contrarreloj, amenazados por los saqueos, las guerras y el cambio climático.
@@ -1301,7 +1006,7 @@
 	</programme>
 	<programme start="20260816103000 +0200" stop="20260816113000 +0200" channel="La 2 Super Full HD 8k">
     <title>El día del señor T2026 · Parroquia De Sta. Maria La Antigua, Madrid</title>
-    <desc>Cultural/Educativo,Religión | 2026 | TP | *6.0/10
+    <desc>Cultural/Educativo,Religión | 2026 | TP | *6.4/10
 · Programa religioso que retransmite la celebración de la eucaristía desde diferentes parroquias de toda España y un reportaje relacionado con la localidad, su patrimonio cultural, artístico, o de la festividad que se celebra en la liturgia.
 · País: España
 · Dirección: Juan Carlos Ramos.
@@ -1345,7 +1050,7 @@
 · Dirección: Jesús María Montes-Fernández.</desc>
 	</programme>
 	<programme start="20260816134500 +0200" stop="20260816141500 +0200" channel="La 2 Super Full HD 8k">
-    <title>El escarabajo verde: Fusión por fisión</title>
+    <title>El escarabajo verde: Fusión por fisión · El escarabajo verde: Txernòbil</title>
     <desc>Documentales,Naturaleza | 2026 | TP | *6.2/10
 · Un reportaje que revisa, 40 años después de Chernóbil, el debate actual sobre la energía nuclear en el contexto de la crisis energética, contraponiendo distintas posturas y poniendo el foco en nuevas vías como la fusión nuclear.
 · País: España
@@ -1353,7 +1058,7 @@
 	</programme>
 	<programme start="20260816141500 +0200" stop="20260816144500 +0200" channel="La 2 Super Full HD 8k">
     <title>Mi familia en la mochila. Family run T5 · La Palma y Lanzarote. Paisajes de otro mundo</title>
-    <desc>Ocio y Aficiones,Viajes | 2022 | TP | *6.2/10
+    <desc>Ocio y Aficiones,Viajes | 2022 | TP | *6.4/10
 · Viajamos las Islas Canarias para visitar La Palma y Lanzarote.
 · País: España</desc>
 	</programme>
@@ -1373,7 +1078,7 @@
 	</programme>
 	<programme start="20260816162000 +0200" stop="20260816171000 +0200" channel="La 2 Super Full HD 8k">
     <title>El mar arábigo: El Legado de una tortuga</title>
-    <desc>Documentales,Naturaleza | 2017 | TP | *6.0/10
+    <desc>Documentales,Naturaleza | 2017 | TP | *6.4/10
 · Las aguas de la Península Arábiga son el hogar de peligrosos depredadores como los tiburones cebra, reyes camuflados como la sepia y visitantes ocasionales como el tiburón ballena o la tortuga carey.
 · País: Canadá
 · Productora: Blue Ant Media.</desc>
@@ -1396,7 +1101,7 @@
 	</programme>
 	<programme start="20260816190000 +0200" stop="20260816195000 +0200" channel="La 2 Super Full HD 8k">
     <title>planeta arqueología: Cuando el pasado se explica · Conseguir que hable lo invisible</title>
-    <desc>Documentales,Naturaleza | 2022 | TP | *7.8/10
+    <desc>Documentales,Naturaleza | 2022 | TP | *6.8/10
 · Los avances tecnológicos están consiguiendo que hable lo indetectable en arqueología.
 · Dirección: Alexandra Barbot.</desc>
 	</programme>
@@ -1409,7 +1114,7 @@
 	</programme>
 	<programme start="20260816204000 +0200" stop="20260816213000 +0200" channel="La 2 Super Full HD 8k">
     <title>De tapas por España T1 · San Sebastián. La perla del Cantabrico</title>
-    <desc>Ocio y Aficiones,Cocina | 2024 | TP | *6.2/10
+    <desc>Ocio y Aficiones,Cocina | 2024 | TP | *6.4/10
 · Un viaje donde se marida la historia, el arte y la gastronomía.
 · País: España
 · Presenta: Adrienne Chaballe.</desc>
@@ -1423,7 +1128,7 @@
 	</programme>
 	<programme start="20260816222500 +0200" stop="20260816231500 +0200" channel="La 2 Super Full HD 8k">
     <title>Me meto en un jardín T1 · Marc Giró</title>
-    <desc>Entretenimiento,Entrevista | 2026 | TP
+    <desc>Entretenimiento,Entrevista | 2026 | TP | *6.4/10
 · Marc Giró comparte recuerdos de su juventud, su educación artística y republicana, y reflexiona sobre su trayectoria profesional, mostrando su humor irónico y mirada crítica.
 · País: España
 · Presenta: Mercedes Milá.</desc>
@@ -1457,13 +1162,18 @@
 	</programme>
 	<programme start="20260817014500 +0200" stop="20260817024500 +0200" channel="La 2 Super Full HD 8k">
     <title>Escapar De Kabul</title>
-    <desc>Documentales,Historia | 2026 | +12
-· Cuando los talibanes volvieron al poder en Afganistán en 2021, el ciclismo se declaró ilegal, lo que convirtió este deporte en un acto de rebelión para las ciclistas afganas.</desc>
+    <desc>Documentales,Historia | 2026 | +12 | *6.2/10
+· Cuando los talibanes volvieron al poder en Afganistán en 2021, el ciclismo se declaró ilegal, lo que convirtió este deporte en un acto de rebelión para las ciclistas afganas.
+· País: España
+· Dirección: Pilar Requena.</desc>
 	</programme>
 	<programme start="20260817024500 +0200" stop="20260817033500 +0200" channel="La 2 Super Full HD 8k">
     <title>La guerra relámpago</title>
-    <desc>Documentales,Ciencia tecnología | 2024 | TP
-· Este documental ahonda en el preocupante mundo de las armas autónomas. Policía y fuerzas de seguridad privadas se están preparando para esta nueva tecnología que dará forma a las guerras en un futuro.</desc>
+    <desc>Documentales,Ciencia tecnología | 2024 | TP | *6.0/10
+· Este documental ahonda en el preocupante mundo de las armas autónomas. Policía y fuerzas de seguridad privadas se están preparando para esta nueva tecnología que dará forma a las guerras en un futuro.
+· País: Austria
+· Dirección: Daniel Andrew Wunderer.
+· Productora: BLUE+GREEN Communications.</desc>
 	</programme>
 	<programme start="20260817033500 +0200" stop="20260817042500 +0200" channel="La 2 Super Full HD 8k">
     <title>Nosotros, nuestras mascotas y la guerra</title>
@@ -1475,7 +1185,7 @@
 	</programme>
 	<programme start="20260817042500 +0200" stop="20260817052000 +0200" channel="La 2 Super Full HD 8k">
     <title>Las rutas D'Ambrosio T5 · La mágica Liébana</title>
-    <desc>Ocio y Aficiones,Cocina | 2020 | TP | *7.0/10
+    <desc>Ocio y Aficiones,Cocina | 2020 | TP | *6.6/10
 · Gonzalo D'Ambrosio pone rumbo al valle de Liébana.
 · País: España
 · Presenta: Verónica Zumalacárregui.
@@ -1485,17 +1195,19 @@
 	<programme start="20260817052000 +0200" stop="20260817055000 +0200" channel="La 2 Super Full HD 8k">
     <title>¡Qué animal! T5 · Vida extrema</title>
     <desc>Ocio y Aficiones,Naturaleza | 2020 | TP | *6.0/10
-· Espacio en el que se descubren los secretos de la fauna y la flora de nuestro país.</desc>
+· Espacio en el que se descubren los secretos de la fauna y la flora de nuestro país.
+· País: España
+· Presenta: Evelyn Segura.</desc>
 	</programme>
 	<programme start="20260817055000 +0200" stop="20260817060000 +0200" channel="La 2 Super Full HD 8k">
     <title>La 2 express</title>
-    <desc>Entretenimiento | 2019 | TP | *6.0/10
+    <desc>Entretenimiento | 2019 | *6.0/10
 · En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos.
 · País: España</desc>
 	</programme>
 	<programme start="20260817060000 +0200" stop="20260817062500 +0200" channel="La 2 Super Full HD 8k">
     <title>El bosque protector: Fauna amenazada: quebrantahuesos</title>
-    <desc>Documentales,Naturaleza | TP | *10.0/10
+    <desc>Documentales,Naturaleza | TP | *6.4/10
 · Serie documental sobre los bosques de España, que tiene como objetivo concienciar de la importancia que han tenido y tienen los bosques en la historia natural, social y económica del país, desde los tiempos más remotos hasta la actualidad.
 · País: España
 · Presenta: Luis García Esteban.
@@ -1504,19 +1216,25 @@
 	</programme>
 	<programme start="20260817062500 +0200" stop="20260817070000 +0200" channel="La 2 Super Full HD 8k">
     <title>Reportero de la historia E3</title>
-    <desc>Documentales,Historia | 2010 | +7 | *6.0/10
+    <desc>Documentales,Historia | 2010 | +7 | *6.2/10
 · Espacio que repasa la historia de España entre el siglo XV y el XX.
 · País: España</desc>
 	</programme>
 	<programme start="20260817070000 +0200" stop="20260817073000 +0200" channel="La 2 Super Full HD 8k">
     <title>Jardines con historia: Segovia-Jardines del Alcázar y Romeral de san marcos</title>
-    <desc>Documentales,Naturaleza | 2023 | TP | *10.0/10
-· Los fértiles valles que rodean la ciudad de Segovia estuvieron tradicionalmente destinados a la creación de huertas. Con el paso del tiempo, algunas desaparecieron y otras se convirtieron en jardines tan especiales como los del Alcázar.</desc>
+    <desc>Documentales,Naturaleza | 2023 | TP | *7.0/10
+· Los fértiles valles que rodean la ciudad de Segovia estuvieron tradicionalmente destinados a la creación de huertas. Con el paso del tiempo, algunas desaparecieron y otras se convirtieron en jardines tan especiales como los del Alcázar.
+· País: España
+· Presenta: Mónica Luengo.
+· Productora: Radio Televisión Española (RTVE), Time Zone, S.L.</desc>
 	</programme>
 	<programme start="20260817073000 +0200" stop="20260817080000 +0200" channel="La 2 Super Full HD 8k">
     <title>Jardines con historia: Madrid: Campo del Moro</title>
-    <desc>Documentales,Naturaleza | 2023 | TP
-· El Campo del Moro es el jardín histórico más singular de Madrid.</desc>
+    <desc>Documentales,Naturaleza | 2023 | TP | *6.4/10
+· El Campo del Moro es el jardín histórico más singular de Madrid.
+· País: España
+· Presenta: Mónica Luengo.
+· Productora: Radio Televisión Española (RTVE), Time Zone, S.L.</desc>
 	</programme>
 	<programme start="20260817080000 +0200" stop="20260817085000 +0200" channel="La 2 Super Full HD 8k">
     <title>El sabor de la sabana. Herbivoros y carnivoros</title>
@@ -1568,7 +1286,7 @@
 	</programme>
 	<programme start="20260817113500 +0200" stop="20260817123000 +0200" channel="La 2 Super Full HD 8k">
     <title>Las rutas D'Ambrosio T5 · Almería , arena, desierto y vaqueros</title>
-    <desc>Ocio y Aficiones,Cocina | 2020 | TP | *8.4/10
+    <desc>Ocio y Aficiones,Cocina | 2020 | TP | *7.0/10
 · El chef Gonzalo D'Ambrosio adentra al espectador en el mundo de la gastronomía a través de los productos autóctonos de las comarcas que visita.
 · País: España
 · Presenta: Verónica Zumalacárregui.
@@ -1577,7 +1295,7 @@
 	</programme>
 	<programme start="20260817123000 +0200" stop="20260817133000 +0200" channel="La 2 Super Full HD 8k">
     <title>Curro Jiménez T1 E36 · La noche de la Garduña</title>
-    <desc>Series,Aventuras | 1979 | +7 | *6.0/10
+    <desc>Series,Aventuras | 1979 | +7 | *6.2/10
 · La muerte violenta de un gran hacendado y filántropo arroja dudas sobre Natalia, su joven y bella viuda. Curro Jiménez conoce accidentalmente al hijo del difunto y se hace su amigo, poniéndose a investigar.
 · País: España
 · Dirección: Joaquín Luis Romero Marchent.
@@ -1588,7 +1306,7 @@
 	</programme>
 	<programme start="20260817133000 +0200" stop="20260817142500 +0200" channel="La 2 Super Full HD 8k">
     <title>El cazador STARS T1 E11</title>
-    <desc>Entretenimiento,Concurso | 2024 | TP
+    <desc>Entretenimiento,Concurso | 2024 | TP | *6.0/10
 · Concurso de preguntas y respuestas en el que cuatro concursantes famosos juegan en equipo para derrotar a uno de los cinco cazadores e intentar conseguir premios en metálico, que donarán a una entidad benéfica de su elección.
 · País: España
 · Presenta: Rodrigo Vázquez.
@@ -1596,7 +1314,7 @@
 	</programme>
 	<programme start="20260817142500 +0200" stop="20260817153000 +0200" channel="La 2 Super Full HD 8k">
     <title>El cazador STARS T1 E12</title>
-    <desc>Entretenimiento,Concurso | 2024 | TP
+    <desc>Entretenimiento,Concurso | 2024 | TP | *5.4/10
 · Concurso de preguntas y respuestas en el que cuatro concursantes famosos juegan en equipo para derrotar a uno de los cinco cazadores e intentar conseguir premios en metálico, que donarán a una entidad benéfica de su elección.
 · País: España
 · Presenta: Rodrigo Vázquez.
@@ -1649,7 +1367,7 @@
 	</programme>
 	<programme start="20260817213000 +0200" stop="20260817220000 +0200" channel="La 2 Super Full HD 8k">
     <title>Cifras y letras T3 E51</title>
-    <desc>Entretenimiento,Concurso | 2025 | TP | *6.2/10
+    <desc>Entretenimiento,Concurso | 2025 | TP | *6.0/10
 · Concurso cuyas pruebas deben superarse jugando con cifras y letras y donde, en cada entrega, los concursantes luchan por llevarse el bote acumulado. Presentado por Aitor Albizua, acompañado por los expertos Elena Herraiz y David Calle.
 · País: España
 · Presenta: Aitor Albizua.
@@ -1665,7 +1383,7 @@
 	</programme>
 	<programme start="20260817223000 +0200" stop="20260818002500 +0200" channel="La 2 Super Full HD 8k">
     <title>Ayer, hoy y mañana</title>
-    <desc>Cine,Comedia | 1963 | +18 | *6.0/10
+    <desc>Cine,Comedia | 1963 | +18 | *5.8/10
 · Tres historias protagonizadas por Sophia Loren y Marcello Mastroianni: una contrabandista embarazada, la esposa de un rico y un intenso romance.
 · País: Francia e Italia
 · Dirección: Vittorio De Sica.
@@ -2641,79 +2359,220 @@
 · Dirección: Jaume Clèries.
 · Productora: Costa Est Audiovisuals, Radio Televisión Española (RTVE).</desc>
 	</programme>
-  <programme start="20260814003000 -0500" stop="20260814013000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Un día cualquiera</title>
-  </programme>
-  <programme start="20260814013000 -0500" stop="20260814020000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
-  <programme start="20260814020000 -0500" stop="20260814030000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20260814030000 -0500" stop="20260814040000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Un día cualquiera</title>
-  </programme>
-  <programme start="20260814040000 -0500" stop="20260814050000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
-  <programme start="20260814050000 -0500" stop="20260814060000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Están entre Nosotros</title>
-  </programme>
-  <programme start="20260814060000 -0500" stop="20260814070000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260814070000 -0500" stop="20260814080000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM Primera línea</title>
-  </programme>
-  <programme start="20260814080000 -0500" stop="20260814090000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos A.M</title>
-  </programme>
-  <programme start="20260814090000 -0500" stop="20260814100000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
-  </programme>
-  <programme start="20260814100000 -0500" stop="20260814120000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20260814120000 -0500" stop="20260814140000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20260814140000 -0500" stop="20260814150000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Ventaneando</title>
-    <desc lang="es">Ventaneando es el programa estelar de TV Azteca donde se hace un análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
-    <date>1996</date>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
-  </programme>
-  <programme start="20260814150000 -0500" stop="20260814160000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20260814160000 -0500" stop="20260814173000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Al extremo</title>
-  </programme>
-  <programme start="20260814173000 -0500" stop="20260814193000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20260814193000 -0500" stop="20260814203000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">FIA Carolina Rocha</title>
-  </programme>
-  <programme start="20260814203000 -0500" stop="20260814213000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20260814213000 -0500" stop="20260814224500 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20260814224500 -0500" stop="20260814233000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260814233000 -0500" stop="20260815003000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Noticiero hechos noche</title>
-  </programme>
+	<programme start="20260822045500 +0200" stop="20260822061000 +0200" channel="La 2 Super Full HD 8k">
+    <title>El gran festín del océano</title>
+    <desc>Documentales,Naturaleza | 2022 | TP | *5.8/10
+· Al comienzo de cada invierno, la costa de Sudáfrica ve reunirse a miles de millones de pececillos en la que es la mayor migración de biomasa del planeta.
+· País: República Sudafricana
+· Dirección: Mea Trenor.
+· Productora: PBS.</desc>
+	</programme>
+	<programme start="20260822061000 +0200" stop="20260822061500 +0200" channel="La 2 Super Full HD 8k">
+    <title>La 2 express</title>
+    <desc>Entretenimiento | 2019 | *6.0/10
+· En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos.
+· País: España</desc>
+	</programme>
+	<programme start="20260822061500 +0200" stop="20260822070500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Into the blue · Blau endins</title>
+    <desc>Documentales,Naturaleza | 2021 | TP | *6.0/10
+· Serie documental que retrata los arrecifes coralinos, en diferentes localizaciones, de una zona del sudeste asiático, auténtico pulmón de los océanos y que corre peligro de extinción por el calentamiento global y la mano del hombre.
+· País: España
+· Dirección: Robert Fonollosa, Rubén Artalejo.
+· Productora: Zona Mixta.</desc>
+	</programme>
+	<programme start="20260822070500 +0200" stop="20260822080000 +0200" channel="La 2 Super Full HD 8k">
+    <title>Maravillas de Europa</title>
+    <desc>Documentales,Historia | 2022 | TP | *6.0/10
+· A las puertas del siglo XIII, la rivalidad entre Felipe Augusto, al frente del reino de Francia, y el rey de Inglaterra, Ricardo Corazón de León, dio origen a un monumento legendario que inicialmente sirvió como fortaleza: el Louvre.
+· País: Francia
+· Dirección: Angèle Berland.</desc>
+	</programme>
+	<programme start="20260822080000 +0200" stop="20260822093500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Los conciertos de La 2 T25/26</title>
+    <desc>Música,Música clásica | 2025 | TP | *6.0/10
+· Retransmisión de un concierto de la Orquestra Sinfónica o del Coro de RTVE.
+· País: España
+· Dirección: Arturo Morales.
+· Productora: Televisión Española (TVE).</desc>
+	</programme>
+	<programme start="20260822093500 +0200" stop="20260822095000 +0200" channel="La 2 Super Full HD 8k">
+    <title>Objetivo Igualdad T6</title>
+    <desc>Información,Informativo | 2025 | +7 | *6.0/10
+· Espacio con temática exclusiva en torno a la igualdad presentado por Carolina Pecharromán.
+· País: España
+· Presenta: Carolina Pecharromán.</desc>
+	</programme>
+	<programme start="20260822095000 +0200" stop="20260822102000 +0200" channel="La 2 Super Full HD 8k">
+    <title>En lengua de signos</title>
+    <desc>Información,Informativo | 2026 | TP | *6.0/10
+· Paloma Soroa es la encargada de conducir este espacio semanal de noticias y reportajes.
+· País: España
+· Dirección: Lola Hernández.</desc>
+	</programme>
+	<programme start="20260822102000 +0200" stop="20260822110000 +0200" channel="La 2 Super Full HD 8k">
+    <title>Agrosfera</title>
+    <desc>Información,Sociedad | 2025 | TP | *6.2/10
+· Con vocación de servicio público y participación ciudadana, el programa lleva la actualidad del campo y el mar a agricultores, ganaderos, pescadores y habitantes del medio rural.
+· Dirección: Sergio Gómez Muñoz.</desc>
+	</programme>
+	<programme start="20260822110000 +0200" stop="20260822112500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Arqueomanía</title>
+    <desc>Documentales,Historia | 2023 | TP | *6.0/10
+· La geografía española alberga preciados tesoros arqueológicos e históricos.
+· País: España
+· Presenta: Manuel Pimentel.
+· Dirección: Manuel Pimentel.
+· Productora: La Nave del Tharsis, New Atlantis.</desc>
+	</programme>
+	<programme start="20260822112500 +0200" stop="20260822115500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Arqueomanía</title>
+    <desc>Documentales,Historia | 2023 | TP | *6.0/10
+· La geografía española alberga preciados tesoros arqueológicos e históricos.
+· País: España
+· Presenta: Manuel Pimentel.
+· Dirección: Manuel Pimentel.
+· Productora: La Nave del Tharsis, New Atlantis.</desc>
+	</programme>
+	<programme start="20260822115500 +0200" stop="20260822122500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Jardines con historia</title>
+    <desc>Documentales,Naturaleza | 2021 | TP | *6.6/10
+· Repaso a la historia y a la botánica de los jardines más emblemáticos del patrimonio español: los de Aranjuez, los Pazos de Santa Cruz de Rivadulla y de Oca, el Jardín de aclimatación de la Orotava, el Chillida Leku, La Alhambra, entre otros.
+· País: España
+· Presenta: Mónica Luengo.
+· Dirección: Sonia Tercero Ramiro.
+· Productora: Time Zone, S.L, Radio Televisión Española (RTVE).</desc>
+	</programme>
+	<programme start="20260822122500 +0200" stop="20260822125500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Jardines con historia</title>
+    <desc>Documentales,Naturaleza | 2021 | TP | *6.6/10
+· Repaso a la historia y a la botánica de los jardines más emblemáticos del patrimonio español: los de Aranjuez, los Pazos de Santa Cruz de Rivadulla y de Oca, el Jardín de aclimatación de la Orotava, el Chillida Leku, La Alhambra, entre otros.
+· País: España
+· Presenta: Mónica Luengo.
+· Dirección: Sonia Tercero Ramiro.
+· Productora: Time Zone, S.L, Radio Televisión Española (RTVE).</desc>
+	</programme>
+	<programme start="20260822125500 +0200" stop="20260822132500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Página 2 T19</title>
+    <desc>Cultural/Educativo,Literatura | 2025 | TP | *5.8/10
+· Magacín divulgativo sobre el mundo de los libros que utiliza un tono ameno, entretenido y cercano en el que tanto el lector habitual como el ocasional encontrarán toda la información necesaria para satisfacer su interés por la lectura.
+· País: España
+· Presenta: Óscar López.</desc>
+	</programme>
+	<programme start="20260822132500 +0200" stop="20260822141500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Tendido cero T25/26</title>
+    <desc>Toros,Programa de toros | 2025 | +12 | *6.0/10
+· Programa sobre el mundo de los toros con reportajes, entrevistas y retransmisiones.
+· País: España
+· Dirección: Belén Plaza.
+· Productora: Televisión Española (TVE).</desc>
+	</programme>
+	<programme start="20260822141500 +0200" stop="20260822144000 +0200" channel="La 2 Super Full HD 8k">
+    <title>Viajar en tren</title>
+    <desc>Documentales,Viajes | 2022 | TP | *6.2/10
+· Serie documental sobre importantes ferrocarriles de todo el mundo. Con el tren actuando como guía, el programa atraviesa lugares especiales. Cada episodio comienza con un retrato de la ciudad de donde parte el tren.
+· País: Países Bajos
+· Productora: EO International, Meskers Media Affairs B.V.</desc>
+	</programme>
+	<programme start="20260822144000 +0200" stop="20260822152500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Saber y ganar fin de semana</title>
+    <desc>Entretenimiento,Concurso | 2025 | TP | *6.2/10
+· Edición de fin de semana del concurso más longevo de Televisión Española.
+· País: España
+· Presenta: Jordi Hurtado.
+· Dirección: Sergi Schaaff.
+· Productora: Quart.</desc>
+	</programme>
+	<programme start="20260822152500 +0200" stop="20260822161500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Saber y ganar fin de semana T15</title>
+    <desc>Entretenimiento,Concurso | 2025 | TP | *6.0/10
+· Edición de fin de semana del concurso más longevo de Televisión Española.
+· País: España
+· Presenta: Rodrigo Vázquez, Núria Ramírez.</desc>
+	</programme>
+	<programme start="20260822161500 +0200" stop="20260822171000 +0200" channel="La 2 Super Full HD 8k">
+    <title>Into the blue · Blau endins</title>
+    <desc>Documentales,Naturaleza | 2021 | TP | *6.0/10
+· Serie documental que retrata los arrecifes coralinos, en diferentes localizaciones, de una zona del sudeste asiático, auténtico pulmón de los océanos y que corre peligro de extinción por el calentamiento global y la mano del hombre.
+· País: España
+· Dirección: Robert Fonollosa, Rubén Artalejo.
+· Productora: Zona Mixta.</desc>
+	</programme>
+	<programme start="20260822171000 +0200" stop="20260822180000 +0200" channel="La 2 Super Full HD 8k">
+    <title>Belleza septentrional</title>
+    <desc>Documentales,Naturaleza | 2021 | TP | *6.0/10
+· La bahía de Lübeck es la tercera bahía más grande del mar Báltico en Alemania, donde viven animales extraordinarios como la nutria y la avefría.
+· País: Alemania
+· Dirección: Klaus Weissmann, Wilma Kock, Almut Hauschild, Christoph Hauschild.</desc>
+	</programme>
+	<programme start="20260822180000 +0200" stop="20260822182500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Animales extraordinarios de Australia</title>
+    <desc>Documentales,Naturaleza | 2024 | TP | *6.0/10
+· Un documental de naturaleza centrado en los animales más singulares de Australia y en las estrategias sorprendentes que han desarrollado para sobrevivir.</desc>
+	</programme>
+	<programme start="20260822182500 +0200" stop="20260822185000 +0200" channel="La 2 Super Full HD 8k">
+    <title>¡Atención Obras!</title>
+    <desc>Ocio y Aficiones,Espectáculo | 2025 | TP | *5.8/10
+· Magacín de actualidad cultural presentado por Cayetana Guillén Cuervo.
+· País: España
+· Dirección: Sara Núñez de Arenas.</desc>
+	</programme>
+	<programme start="20260822185000 +0200" stop="20260822194500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Días de cine T36</title>
+    <desc>Cine,Programa de cine | 2025 | +12 | *5.8/10
+· Programa que informa sobre la actualidad cinematográfica nacional e internacional.
+· País: España
+· Dirección: Gerardo Sánchez.
+· Productora: Televisión Española (TVE).</desc>
+	</programme>
+	<programme start="20260822194500 +0200" stop="20260822202000 +0200" channel="La 2 Super Full HD 8k">
+    <title>La semana</title>
+    <desc>Información,Informativo | 2026 | TP | *6.2/10
+· Conducido por Pepa Bueno, el programa analiza temas de actualidad desde un enfoque diferente, con la perspectiva de sus protagonistas o afectados y la de expertos que conversan con la periodista para entender el contexto.
+· País: España
+· Presenta: Pepa Bueno.</desc>
+	</programme>
+	<programme start="20260822202000 +0200" stop="20260822231000 +0200" channel="La 2 Super Full HD 8k">
+    <title>Diario de un nómada: Expedición Trajano</title>
+    <desc>Documentales,Viajes | 2022 | TP | *5.0/10
+· El presentador Miquel Silvestre recorre distintos lugares del mundo en motocicleta.
+· País: España
+· Presenta: Miquel Silvestre.</desc>
+	</programme>
+	<programme start="20260822231000 +0200" stop="20260823014500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Malas lenguas Noche T1</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *5.8/10
+· Jesús Cintora presenta este magacín de actualidad en su versión nocturna y de fin de semana, donde, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España</desc>
+	</programme>
+	<programme start="20260823014500 +0200" stop="20260823024000 +0200" channel="La 2 Super Full HD 8k">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260823024000 +0200" stop="20260823033500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260823033500 +0200" stop="20260823043500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Documentos TV T40</title>
+    <desc>Información,Reportaje | 2025 | +12 | *6.0/10
+· Prestigiosos reportajes y documentales de televisiones y productoras de todo el mundo.
+· País: España
+· Dirección: Pilar Requena.
+· Productora: Televisión Española (TVE).</desc>
+	</programme>
+	<programme start="20260823043500 +0200" stop="20260823052500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Las hienas pardas de Makgadikgadi</title>
+    <desc>Documentales,Naturaleza | 2021 | TP | *5.8/10
+· La vida secreta de uno de los animales con menos presencia del Makgadikgadi: la hiena marrón. Una joven madre y su camada de cachorros luchan por sobrevivir en uno de los entornos más hostiles de África.
+· Dirección: Peter Lamberti.
+· Productora: Lion Mountain Media.</desc>
+	</programme>
+	<programme start="20260823052500 +0200" stop="20260823055000 +0200" channel="La 2 Super Full HD 8k">
+    <title>Animales extraordinarios de Australia</title>
+    <desc>Documentales,Naturaleza | 2024 | TP | *6.0/10
+· Un documental de naturaleza centrado en los animales más singulares de Australia y en las estrategias sorprendentes que han desarrollado para sobrevivir.</desc>
+	</programme>
   <programme start="20260815003000 -0500" stop="20260815013000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Un día cualquiera</title>
   </programme>
@@ -2765,79 +2624,6 @@
   <programme start="20260815180000 -0500" stop="20260815190000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Un día cualquiera</title>
   </programme>
-  <programme start="20260814003000 -0500" stop="20260814013000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Un día cualquiera</title>
-  </programme>
-  <programme start="20260814013000 -0500" stop="20260814020000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
-  <programme start="20260814020000 -0500" stop="20260814030000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20260814030000 -0500" stop="20260814040000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Un día cualquiera</title>
-  </programme>
-  <programme start="20260814040000 -0500" stop="20260814050000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Lo que la gente cuenta</title>
-  </programme>
-  <programme start="20260814050000 -0500" stop="20260814060000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Están entre Nosotros</title>
-  </programme>
-  <programme start="20260814060000 -0500" stop="20260814070000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260814070000 -0500" stop="20260814080000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos AM Primera línea</title>
-  </programme>
-  <programme start="20260814080000 -0500" stop="20260814090000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos A.M</title>
-  </programme>
-  <programme start="20260814090000 -0500" stop="20260814100000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
-  </programme>
-  <programme start="20260814100000 -0500" stop="20260814120000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20260814120000 -0500" stop="20260814140000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20260814140000 -0500" stop="20260814150000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Ventaneando</title>
-    <desc lang="es">Ventaneando es el programa estelar de TV Azteca donde se hace un análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
-    <date>1996</date>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
-  </programme>
-  <programme start="20260814150000 -0500" stop="20260814160000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20260814160000 -0500" stop="20260814173000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Al extremo</title>
-  </programme>
-  <programme start="20260814173000 -0500" stop="20260814193000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20260814193000 -0500" stop="20260814203000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">FIA Carolina Rocha</title>
-  </programme>
-  <programme start="20260814203000 -0500" stop="20260814213000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20260814213000 -0500" stop="20260814224500 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Rutas de la Vida</title>
-  </programme>
-  <programme start="20260814224500 -0500" stop="20260814233000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20260814233000 -0500" stop="20260815003000 -0500" channel="MX | Canal TV Azteca">
-    <title lang="es">Noticiero hechos noche</title>
-  </programme>
   <programme start="20260815003000 -0500" stop="20260815013000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Un día cualquiera</title>
   </programme>
@@ -2888,138 +2674,6 @@
   </programme>
   <programme start="20260815180000 -0500" stop="20260815190000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Un día cualquiera</title>
-  </programme>
-  <programme start="20260814000000 +0200" stop="20260814001500 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Made in Italy</title>
-    <sub-title lang="pl">Juventus</sub-title>
-    <desc lang="pl">Rzut okiem na kluby piłkarskie stanowiące wizytówkę włoskiej Serie A. Kibice zajrzą do szatni takich zespołów, jak AC Milan, Genoa CFC czy Fiorentina.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6506499.jpg" />
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20260814001500 +0200" stop="20260814004000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Made in Italy</title>
-    <sub-title lang="pl">AS Roma</sub-title>
-    <desc lang="pl">Rzut okiem na kluby piłkarskie stanowiące wizytówkę włoskiej Serie A. Kibice zajrzą do szatni takich zespołów, jak AC Milan, Genoa CFC czy Fiorentina.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6506499.jpg" />
-    <episode-num system="onscreen">E8</episode-num>
-  </programme>
-  <programme start="20260814004000 +0200" stop="20260814010000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Made in Italy</title>
-    <sub-title lang="pl">SSC Napoli</sub-title>
-    <desc lang="pl">Rzut okiem na kluby piłkarskie stanowiące wizytówkę włoskiej Serie A. Kibice zajrzą do szatni takich zespołów, jak AC Milan, Genoa CFC czy Fiorentina.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6506499.jpg" />
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
-  <programme start="20260814010000 +0200" stop="20260814013000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Bundesliga Goal Special</title>
-    <sub-title lang="pl">The Legacy of Manuel Neuer</sub-title>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
-    <episode-num system="onscreen">E18</episode-num>
-  </programme>
-  <programme start="20260814013000 +0200" stop="20260814020000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Bundesliga Special</title>
-    <sub-title lang="pl">Bayern Unleashed</sub-title>
-    <desc lang="pl">Program poświęcony najwyższej klasie rozgrywkowej w Niemczech. Widzowie znajdą w nim informacje z obozów drużyn walczących o mistrzostwo Bundesligi oraz mnóstwo ciekawostek dotyczących m.in. piłkarzy.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6627766.jpg" />
-    <episode-num system="onscreen">E20</episode-num>
-  </programme>
-  <programme start="20260814020000 +0200" stop="20260814040000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga włoska - mecz: AS Roma - SS Lazio</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6556892.jpg" />
-  </programme>
-  <programme start="20260814040000 +0200" stop="20260814043500 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Bundesliga Original Series: Droga na mundial</title>
-    <date>2026</date>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20260814043500 +0200" stop="20260814051500 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Bundesliga Original Series: Droga na mundial</title>
-    <date>2026</date>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20260814051500 +0200" stop="20260814060000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Najlepsi napastnicy Bundesligi lat 90</title>
-    <desc lang="pl">Stefan Kuntz, Mario Basler, Fredi Bobic, Ulf Kirsten, Toni Polster i wielu innych zachwycało umiejętnościami w latach 90. W programie przyjrzymy się sylwetkom łowców bramek i najpiękniejszym golom.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
-  </programme>
-  <programme start="20260814060000 +0200" stop="20260814063000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Legendy Bundesligi</title>
-    <desc lang="pl">Biografie postaci, które trwale zapisały się w historii niemieckiej Bundesligi. W programie m.in. wywiady z zasłużonymi piłkarzami oraz klubowymi działaczami, a także wypowiedzi ekspertów piłkarskich.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4176220.jpg" />
-  </programme>
-  <programme start="20260814063000 +0200" stop="20260814070000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Podróż do świata Calcio</title>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
-  </programme>
-  <programme start="20260814070000 +0200" stop="20260814090000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">2. liga niemiecka - mecz: FC St. Pauli - SpVgg Greuther Fürth</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
-  </programme>
-  <programme start="20260814090000 +0200" stop="20260814110000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga portugalska - mecz: FC Porto - FC Alverca</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6550491.jpg" />
-  </programme>
-  <programme start="20260814110000 +0200" stop="20260814121500 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Formuła 3: Grand Prix Belgii</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6659437.jpg" />
-  </programme>
-  <programme start="20260814121500 +0200" stop="20260814140000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Formuła 2: Grand Prix Belgii</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6659437.jpg" />
-  </programme>
-  <programme start="20260814140000 +0200" stop="20260814160000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Formuła 1: Grand Prix Belgii</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6659437.jpg" />
-  </programme>
-  <programme start="20260814160000 +0200" stop="20260814180000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">2. liga niemiecka - mecz: FC Energie Cottbus - Hannover 96</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
-  </programme>
-  <programme start="20260814180000 +0200" stop="20260814182500 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Najlepsze gole Borussii Dortmund</title>
-    <desc lang="pl">Michael Zorc i Robert Lewandowski to niektórzy spośród piłkarzy Borussii Dortmund, którzy potrafili zdobywać bramki w zadziwiający sposób. Widzowie zobaczą najładniejsze gole zawodników BVB.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
-  </programme>
-  <programme start="20260814182500 +0200" stop="20260814203500 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">2. liga niemiecka - mecz: Holstein Kiel - FC St. Pauli</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
-  </programme>
-  <programme start="20260814203500 +0200" stop="20260814211000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">AJ Auxerre - Małe miasto, wielki klub</title>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419736.jpg" />
-  </programme>
-  <programme start="20260814211000 +0200" stop="20260814232000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Liga portugalska - mecz: Sporting CP - Vitoria SC</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6555583.jpg" />
-  </programme>
-  <programme start="20260814232000 +0200" stop="20260814235000 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Legendy ligi niemieckiej</title>
-    <sub-title lang="pl">Karl-Heinz Rummenigge</sub-title>
-    <desc lang="pl">Biografie postaci, które trwale zapisały się w historii niemieckiej Bundesligi. W programie m.in. wywiady z zasłużonymi piłkarzami oraz klubowymi działaczami, a także wypowiedzi ekspertów piłkarskich.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4176220.jpg" />
-  </programme>
-  <programme start="20260814235000 +0200" stop="20260815001500 +0200" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Made in Italy</title>
-    <sub-title lang="pl">SS Lazio</sub-title>
-    <desc lang="pl">Rzut okiem na kluby piłkarskie stanowiące wizytówkę włoskiej Serie A. Kibice zajrzą do szatni takich zespołów, jak AC Milan, Genoa CFC czy Fiorentina.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6506499.jpg" />
-    <episode-num system="onscreen">E11</episode-num>
   </programme>
   <programme start="20260815001500 +0200" stop="20260815004000 +0200" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Made in Italy</title>
@@ -3563,112 +3217,14 @@
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
   </programme>
-  <programme start="20260814000000 +0200" stop="20260814020000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">2. liga niemiecka - mecz: FC St. Pauli - SpVgg Greuther Fürth</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6370094.jpg" />
-  </programme>
-  <programme start="20260814020000 +0200" stop="20260814022000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Made in Italy</title>
-    <sub-title lang="pl">ACF Fiorentina</sub-title>
-    <desc lang="pl">Rzut okiem na kluby piłkarskie stanowiące wizytówkę włoskiej Serie A. Kibice zajrzą do szatni takich zespołów, jak AC Milan, Genoa CFC czy Fiorentina.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6506499.jpg" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20260814022000 +0200" stop="20260814024000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Made in Italy</title>
-    <sub-title lang="pl">Hellas Werona</sub-title>
-    <desc lang="pl">Rzut okiem na kluby piłkarskie stanowiące wizytówkę włoskiej Serie A. Kibice zajrzą do szatni takich zespołów, jak AC Milan, Genoa CFC czy Fiorentina.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6506499.jpg" />
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20260814024000 +0200" stop="20260814030000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Made in Italy</title>
-    <sub-title lang="pl">US Sassuolo Calcio</sub-title>
-    <desc lang="pl">Rzut okiem na kluby piłkarskie stanowiące wizytówkę włoskiej Serie A. Kibice zajrzą do szatni takich zespołów, jak AC Milan, Genoa CFC czy Fiorentina.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6506499.jpg" />
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20260814030000 +0200" stop="20260814034000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Moi bohaterowie</title>
-    <sub-title lang="pl">Joshua Kimmich</sub-title>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6521733.jpg" />
-  </programme>
-  <programme start="20260814034000 +0200" stop="20260814040000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Najlepsze gole VfL Wolfsburg</title>
-    <desc lang="pl">Edin Dżeko, Grafite, a także Andrzej Juskowiak to tylko trzech wybitnych napastników, którzy zdobywali gole w barwach Wolfsburga. W szeregach tej drużyny występowało bowiem wielu klasowych snajperów.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
-  </programme>
-  <programme start="20260814040000 +0200" stop="20260814060000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga włoska - mecz: SSC Napoli - Torino FC</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6733950.jpg" />
-  </programme>
-  <programme start="20260814060000 +0200" stop="20260814080000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga niemiecka - mecz: FC Bayern Monachium - VfL Wolfsburg</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6426652.jpg" />
-  </programme>
-  <programme start="20260814080000 +0200" stop="20260814084000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Najlepsi bramkarze Bundesligi lat 90</title>
-    <desc lang="pl">Biografie najlepszych bramkarzy lat 90., którzy zapisali się w historii niemieckiej ekstraklasy. Widzowie poznają życiorysy Olivera Kahna, Gabora Kiraly'a, Jensa Lehmanna czy Dirka Heynena.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6737167.jpg" />
-  </programme>
-  <programme start="20260814084000 +0200" stop="20260814090000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Najlepsze gole VfB Stuttgart</title>
-    <desc lang="pl">Widzowie zobaczą najładniejsze gole strzelone przez piłkarzy VfB Stuttgart. W programie nie zabraknie m.in. trafień z sezonu 2006/2007, na zakończenie którego Die Roten zdobyli mistrzostwo Bundesligi.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
-  </programme>
-  <programme start="20260814090000 +0200" stop="20260814100000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Bundesliga Dino</title>
-    <desc lang="pl">Historia Hamburgera SV, jednego z najbardziej utytułowanych klubów piłkarskich Bundesligi. Twórcy analizują sezon 2017/2018, kiedy Dinozaury po raz pierwszy spadły z najwyższej klasy rozgrywkowej.</desc>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
-  </programme>
-  <programme start="20260814100000 +0200" stop="20260814120000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga włoska - mecz: Inter Mediolan - AS Roma</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6682855.jpg" />
-  </programme>
-  <programme start="20260814120000 +0200" stop="20260814140000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">2. liga niemiecka - mecz: 1. FC Magdeburg - Eintracht Brunszwik TSV</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
-  </programme>
-  <programme start="20260814140000 +0200" stop="20260814160000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Liga portugalska - mecz: SL Benfica - Académico de Viseu</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6849505.jpg" />
-  </programme>
-  <programme start="20260814160000 +0200" stop="20260814182500 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">RC Lens - Sekrety sukcesu</title>
-    <category lang="pl">reportaż</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028576.jpg" />
-  </programme>
-  <programme start="20260814182500 +0200" stop="20260814203500 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">2. liga niemiecka - mecz: Eintracht Brunszwik TSV - VfL Bochum</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
-  </programme>
-  <programme start="20260814203500 +0200" stop="20260814212000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Moi bohaterowie</title>
-    <sub-title lang="pl">Joshua Kimmich</sub-title>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6521733.jpg" />
-  </programme>
-  <programme start="20260814212000 +0200" stop="20260814220000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Magazyn piłkarski</title>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1858033.jpg" />
-  </programme>
-  <programme start="20260814220000 +0200" stop="20260814230000 +0200" channel="Eleven Sports 2 Polonia">
+  <programme start="20260820000000 +0200" stop="20260820010500 +0200" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Bundesliga Special</title>
     <desc lang="pl">Program poświęcony najwyższej klasie rozgrywkowej w Niemczech. Widzowie znajdą w nim informacje z obozów drużyn walczących o mistrzostwo Bundesligi oraz mnóstwo ciekawostek dotyczących m.in. piłkarzy.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6627766.jpg" />
     <episode-num system="onscreen">E21</episode-num>
   </programme>
-  <programme start="20260814230000 +0200" stop="20260814234000 +0200" channel="Eleven Sports 2 Polonia">
+  <programme start="20260820010500 +0200" stop="20260820014500 +0200" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Bundesliga Special</title>
     <sub-title lang="pl">Bayern Unleashed</sub-title>
     <desc lang="pl">Program poświęcony najwyższej klasie rozgrywkowej w Niemczech. Widzowie znajdą w nim informacje z obozów drużyn walczących o mistrzostwo Bundesligi oraz mnóstwo ciekawostek dotyczących m.in. piłkarzy.</desc>
@@ -3676,11 +3232,100 @@
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6627766.jpg" />
     <episode-num system="onscreen">E20</episode-num>
   </programme>
-  <programme start="20260814234000 +0200" stop="20260815000000 +0200" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Dramatyczne rzuty karne</title>
-    <desc lang="pl">Rzuty karne w piłce nożnej to ogromne emocje towarzyszące zarówno piłkarzom, jak i kibicom. Szczęście, nerwy ze stali i umiejętności techniczne są potrzebne, by je dobrze wykonywać.</desc>
+  <programme start="20260820014500 +0200" stop="20260820020000 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Made in Italy</title>
+    <sub-title lang="pl">Inter</sub-title>
+    <desc lang="pl">Rzut okiem na kluby piłkarskie stanowiące wizytówkę włoskiej Serie A. Kibice zajrzą do szatni takich zespołów, jak AC Milan, Genoa CFC czy Fiorentina.</desc>
     <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6506499.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20260820020000 +0200" stop="20260820040000 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">2. liga niemiecka - mecz: Holstein Kiel - FC St. Pauli</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
+  </programme>
+  <programme start="20260820040000 +0200" stop="20260820045500 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Pierwszy tytuł Kloppa</title>
+    <desc lang="pl">Jürgen Klopp poprowadził Borussię Dortmund do mistrzostwa Bundesligi w sezonie 2010/2011. O sile zespołu stanowiło wówczas trzech Polaków: Robert Lewandowski, Jakub Błaszczykowski i Łukasz Piszczek.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
+  </programme>
+  <programme start="20260820045500 +0200" stop="20260820054500 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Potrójna korona Bayernu Monachium</title>
+    <desc lang="pl">Twórcy dokumentu przypominają historyczny sezon Bayernu Monachium, w którym bawarski zespół wygrał Bundesligę, Puchar Niemiec oraz prestiżową Ligę Mistrzów.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6555519.jpg" />
+  </programme>
+  <programme start="20260820054500 +0200" stop="20260820060000 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Ousmane Dembélé - Pierwsze kroki</title>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6789153.jpg" />
+  </programme>
+  <programme start="20260820060000 +0200" stop="20260820063000 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Legendy Bundesligi</title>
+    <sub-title lang="pl">Rudi Voeller</sub-title>
+    <desc lang="pl">Biografie postaci, które trwale zapisały się w historii niemieckiej Bundesligi. W programie m.in. wywiady z zasłużonymi piłkarzami oraz klubowymi działaczami, a także wypowiedzi ekspertów piłkarskich.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4176220.jpg" />
+  </programme>
+  <programme start="20260820063000 +0200" stop="20260820070000 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Legendy Bundesligi</title>
+    <sub-title lang="pl">Lothar Matthaeus</sub-title>
+    <desc lang="pl">Biografie postaci, które trwale zapisały się w historii niemieckiej Bundesligi. W programie m.in. wywiady z zasłużonymi piłkarzami oraz klubowymi działaczami, a także wypowiedzi ekspertów piłkarskich.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4176220.jpg" />
+  </programme>
+  <programme start="20260820070000 +0200" stop="20260820090000 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">2. liga niemiecka - mecz: FC Kaiserslautern - Karlsruher SC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
+  </programme>
+  <programme start="20260820090000 +0200" stop="20260820110000 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Superpuchar Francji - mecz: RC Lens - Paris Saint-Germain</title>
+    <desc lang="pl">W letnim oknie transferowym ekipę RC Lens wzmocnił między innymi kupiony z KAA Gent Michał Skóraś. Reprezentant Polski dobrze wprowadził się do nowego zespołu, zaliczając dwie asysty w swoim debiucie przypadającym na sparing z drugoligowym US Boulogne (4:1). Pierwsza poważna weryfikacja umiejętności wychowanka Lecha przypadnie na mecz o Superpuchar Francji przeciwko Paris Saint-Germain. Jeśli Skóraś błyśnie na tle mistrzów kraju i triumfatorów Champions League, szybko wkupi się w łaski kibiców Les Artésiens. Spotkanie zostanie rozegrane na Stade Félix-Bollaert, domowym obiekcie Lens.</desc>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6563929.jpg" />
+  </programme>
+  <programme start="20260820110000 +0200" stop="20260820123500 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Formuła 3: Grand Prix Węgier</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
+  </programme>
+  <programme start="20260820123500 +0200" stop="20260820140000 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Formuła 2: Grand Prix Węgier</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
+  </programme>
+  <programme start="20260820140000 +0200" stop="20260820160000 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Formuła 1: Grand Prix Węgier</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
+  </programme>
+  <programme start="20260820160000 +0200" stop="20260820180000 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Liga portugalska - mecz: Sporting CP - Vitoria SC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6555583.jpg" />
+  </programme>
+  <programme start="20260820180000 +0200" stop="20260820200000 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">2. liga niemiecka - mecz: Hannover 96 - VfL Wolfsburg</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6627774.jpg" />
+  </programme>
+  <programme start="20260820200000 +0200" stop="20260820204000 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Bundesliga Weekly</title>
+    <desc lang="pl">Najnowsze informacje z boisk niemieckiej ekstraklasy. W programie m.in. relacje z treningów i konferencji prasowych, wywiady z zawodnikami, trenerami oraz szefami klubu.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3999513.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20260820204000 +0200" stop="20260820224000 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Formuła 1: Grand Prix Węgier</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6729440.jpg" />
+  </programme>
+  <programme start="20260820224000 +0200" stop="20260820232000 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Ligue 1 Preview</title>
+    <desc lang="pl">Magazyn poświęcony lidze francuskiej, a w nim zapowiedź wszystkich spotkań najbliższej kolejki.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6388003.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20260820232000 +0200" stop="20260821014000 +0200" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">RC Lens - Sekrety sukcesu</title>
+    <category lang="pl">reportaż</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028587.jpg" />
   </programme>
   <programme start="20260815000000 +0200" stop="20260815020000 +0200" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Liga portugalska - mecz: Sporting CP - Vitoria SC</title>
@@ -4247,5 +3892,105 @@
     <title lang="pl">RC Lens - Sekrety sukcesu</title>
     <category lang="pl">reportaż</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028576.jpg" />
+  </programme>
+  <programme start="20260820000000 +0200" stop="20260820020000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga portugalska - mecz: Sporting CP - Vitoria SC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6555583.jpg" />
+  </programme>
+  <programme start="20260820020000 +0200" stop="20260820025000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Magazyn piłkarski</title>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1858033.jpg" />
+  </programme>
+  <programme start="20260820025000 +0200" stop="20260820031000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Dramatyczne rzuty karne</title>
+    <desc lang="pl">Rzuty karne w piłce nożnej to ogromne emocje towarzyszące zarówno piłkarzom, jak i kibicom. Szczęście, nerwy ze stali i umiejętności techniczne są potrzebne, by je dobrze wykonywać.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
+  </programme>
+  <programme start="20260820031000 +0200" stop="20260820033000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Najszybsze gole Bundesligi</title>
+    <desc lang="pl">W tym programie zobaczymy bramki, które padły zaraz po pierwszym gwizdku sędziego. Okazuje się, że w historii Bundesligi gole strzelone w pierwszych sekundach spotkań wcale nie należały do rzadkości.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
+  </programme>
+  <programme start="20260820033000 +0200" stop="20260820040000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Podróż do świata Calcio</title>
+    <sub-title lang="pl">Oczami sędziego</sub-title>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
+  </programme>
+  <programme start="20260820040000 +0200" stop="20260820060000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">2. liga niemiecka - mecz: FC Kaiserslautern - Karlsruher SC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
+  </programme>
+  <programme start="20260820060000 +0200" stop="20260820080000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">2. liga niemiecka - mecz: Holstein Kiel - FC St. Pauli</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
+  </programme>
+  <programme start="20260820080000 +0200" stop="20260820084000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Birds of paradise</title>
+    <desc lang="pl">Filmowcy i dziennikarze zebrali ciekawostki dotyczące Bundesligi. Każdy znajdzie coś dla siebie, niemiecka liga bowiem to nie tylko sport, ale przedsięwzięcie dotykające różnych dziedzin życia.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
+  </programme>
+  <programme start="20260820084000 +0200" stop="20260820085500 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Najlepsze gole Schalke 04</title>
+    <desc lang="pl">Barwy klubu FC Schalke 04 Gelsenkirchhen reprezentowało wielu snajperów, m.in. Klaus Fischer, Ebbe Sand, Kevin Kuranyi. W programie widzowie zobaczą najlepsze gole w historii drużyny z Gelsenkirchen.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
+  </programme>
+  <programme start="20260820085500 +0200" stop="20260820100000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Werder Double</title>
+    <desc lang="pl">Twórcy przypominają historyczny sezon Werderu zakończony zdobyciem podwójnej korony: mistrzostwa Bundesligi i Pucharu Niemiec. W rozgrywkach 2003/2004 trenerem zespołu z Bremy był Thomas Schaaf.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
+  </programme>
+  <programme start="20260820100000 +0200" stop="20260820120000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga portugalska - mecz: Rio Ave FC - FC Porto</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6550491.jpg" />
+  </programme>
+  <programme start="20260820120000 +0200" stop="20260820140000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">2. liga niemiecka - mecz: FC Kaiserslautern - Karlsruher SC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
+  </programme>
+  <programme start="20260820140000 +0200" stop="20260820160000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Liga portugalska - mecz: Sporting CP - Vitoria SC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6555583.jpg" />
+  </programme>
+  <programme start="20260820160000 +0200" stop="20260820180000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">2. liga niemiecka - mecz: VfL Osnabrück - 1. FC Magdeburg</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996801.jpg" />
+  </programme>
+  <programme start="20260820180000 +0200" stop="20260820200000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Formuła 1: Grand Prix Wielkiej Brytanii</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796110.jpg" />
+  </programme>
+  <programme start="20260820200000 +0200" stop="20260820220000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Superpuchar Francji - mecz: RC Lens - Paris Saint-Germain</title>
+    <desc lang="pl">W letnim oknie transferowym ekipę RC Lens wzmocnił między innymi kupiony z KAA Gent Michał Skóraś. Reprezentant Polski dobrze wprowadził się do nowego zespołu, zaliczając dwie asysty w swoim debiucie przypadającym na sparing z drugoligowym US Boulogne (4:1). Pierwsza poważna weryfikacja umiejętności wychowanka Lecha przypadnie na mecz o Superpuchar Francji przeciwko Paris Saint-Germain. Jeśli Skóraś błyśnie na tle mistrzów kraju i triumfatorów Champions League, szybko wkupi się w łaski kibiców Les Artésiens. Spotkanie zostanie rozegrane na Stade Félix-Bollaert, domowym obiekcie Lens.</desc>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6563929.jpg" />
+  </programme>
+  <programme start="20260820220000 +0200" stop="20260820223500 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Bundesliga Weekly</title>
+    <desc lang="pl">Najnowsze informacje z boisk niemieckiej ekstraklasy. W programie m.in. relacje z treningów i konferencji prasowych, wywiady z zawodnikami, trenerami oraz szefami klubu.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3999513.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20260820223500 +0200" stop="20260820234000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Serie A</title>
+    <sub-title lang="pl">End of Season Review</sub-title>
+    <desc lang="pl">Magazyn poświęcony rozgrywkom ligi włoskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
+  </programme>
+  <programme start="20260820234000 +0200" stop="20260821000000 +0200" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Made in Italy</title>
+    <sub-title lang="pl">Como 1907</sub-title>
+    <desc lang="pl">Rzut okiem na kluby piłkarskie stanowiące wizytówkę włoskiej Serie A. Kibice zajrzą do szatni takich zespołów, jak AC Milan, Genoa CFC czy Fiorentina.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6506499.jpg" />
+    <episode-num system="onscreen">E19</episode-num>
   </programme>
 </tv>
